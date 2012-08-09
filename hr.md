@@ -1,81 +1,44 @@
 #####  TABLE OF CONTENTS                  
 
 
-Expectations
-
-Operational Details
-
-Tracking Time
-
-Money
-
-W4 forms
-
-Direct Deposit
-
-Bonuses
-
-Communications & Operations
-
-dojo4 email address
-
-dojo4 avatar and gravatar
-
-google calendar
-
-dojo email lists
-
-status emails
-
-Redmine
-
-Campfire
-
-Github
-
-Passpack
-
-S3
-
-weekly standup
-
-checking in
-
-Benefits
-
-Health Insurance
-
-Paid Leave
-
-PTO Accrual
-
-Notice and Scheduling
-
-PTO Management
-
-Unpaid TIme Off
-
-Tracking Paid TIme Off
-
-PTO at Termination
-
-Yoga
-
-Meditation
-
-Professional Development
-
-Technology Stipend
-
-Boxcar Coffee Card
-
-Health / Fitness
-
-Agreements
-
-Contract
-
-Acknowledgement
+* Expectations
+* Operational Details
+* Tracking Time
+* Money
+* W4 forms
+* Direct Deposit
+* Bonuses
+* Communications & Operations
+* dojo4 email address
+* dojo4 avatar and gravatar
+* google calendar
+* dojo email lists
+* status emails
+* Redmine
+* Campfire
+* Github
+* Passpack
+* S3
+* weekly standup
+* checking in
+* Benefits
+* Health Insurance
+* Paid Leave
+* PTO Accrual
+* Notice and Scheduling
+* PTO Management
+* Unpaid TIme Off
+* Tracking Paid TIme Off
+* PTO at Termination
+* Yoga
+* Meditation
+* Professional Development
+* Technology Stipend
+* Boxcar Coffee Card
+* Health / Fitness
+* Agreements
+* Contract
+* Acknowledgement
 
 
 ###Expectations
