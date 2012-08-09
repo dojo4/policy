@@ -45,6 +45,6 @@ You must also be either the:
 * biological mother of the child
 * child's adopter
 
-Short-term disability insurance will cover 60% of your weekly salary up to $1000 for up to 26 weeks. dojo4 will cover the remaining 40% for the first 4 consecutive weeks after the baby is born or adopted, and 20% for the next 4 consecutive weeks. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
+Short-term disability insurance will cover 60% of your weekly salary up to $1000 for up to 26 weeks. (As a dojo4 employee you are covered by our short-term disability insurance policy.) dojo4 will cover the remaining 40% for the first 4 consecutive weeks after the baby is born or adopted, and 20% for the next 4 consecutive weeks. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
 
 If you were already pregnant at the time you were first employed at dojo4, you may not qualify for dojo4 paid maternity leave benefits, however as a dojo4 employee, your short-term disability insurance will cover 60% of your weekly salary up to $1000 for up 2 weeks and your normal PTO allowance can also be applied at will.
