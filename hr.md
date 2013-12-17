@@ -207,6 +207,24 @@ Our weekly standups look something like this:
 #####checking in
 Many of dojo4’s contributors like having a regularly scheduled opportunity to check in and hear how they’re doing, hear whether there is anything they can do better, and offer their own feedback for dojo4’s managers. We want that, too! Please schedule these at a sane interval with the manager you want to talk with.
 
+#### Non-Discrimination Policy
+It is the policy and commitment of dojo4 that it does not discriminate on
+the basis of race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion.
+
+#####Equal Employment Opportunity
+dojo4 is committed to a policy of equal employment opportunity and does
+not discriminate in the terms, conditions, or privileges of employment on account of
+race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion or otherwise as may be prohibited by federal and state law.
+
+Any employee, client or volunteer who believes that s/he or any other affiliate of dojo4
+has been discriminated against is strongly encouraged to report this concern promptly to the COO.
+
+#####Discriminatory Harassment
+Harassment or intimidation of an employee, client or guest, because of that person’s
+race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion is specifically prohibited and may be grounds for termination. Harassment and
+intimidation includes abusive or threatening language or behavior. dojo4 is committed to maintaining a workplace that is free of any such harassment and will not tolerate discrimination against employees, clients, volunteers or guests. Issues of discriminatory treatment, harassment, or intimidation on any of these bases
+should immediately be reported to the COO and, if substantiated, prompt action will be taken.
+
 ####Benefits
 
 #####Health Insurance
