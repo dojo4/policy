@@ -188,10 +188,10 @@ The guidelines for the standup are:
   * don’t talk while someone else is talking
   * each person goes only once
   * anything said during the standup is confidential
-  * There’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.
-  * Who is going to bring the question the following week is decided at the end of each standup.
-  * Announcements from anyone who has one.
-  * We end with a clap and a bow.
+  * there’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.
+  * who is going to bring the question the following week is decided at the end of each standup.
+  * announcements from anyone who has one.
+  * we end with a clap and a bow.
 
 ###Org dev
 Every Tuesday at 4:20pm everyone that works at dojo4 gathers for an hour of organizational development. The content of these meetings changes week to week, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
