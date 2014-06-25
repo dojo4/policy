@@ -120,7 +120,7 @@ Everyone at dojo4 also belongs to the status@dojo4.com email list. Please write 
 ##Tracking time			
 Please track your real time spent on dojo4 projects everyday. This includes client and internal projects. And please post your time from the previous day in your morning’s status message. Once a week a time tracking report will be sent out that will include everyone’s time tracked.  Please use this format for reporting time tracked in your status messages:
 
-*2012-03-15
+2012-03-15
 
 @project name 1.5 (hrs)
 description of activities
@@ -129,7 +129,7 @@ description of activities
 description of activities
 
 @project name 4
-description of activities*
+description of activities
 
 *Rules of thumb for tracking your time:*
 - record your time spent on each project at least daily, if not throughout the day
