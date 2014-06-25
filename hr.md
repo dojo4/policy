@@ -1,65 +1,62 @@
-Table of Contents
-Expectations
-Money
-Salaries
-Performance Reviews & Raises
-Bonuses
-W-4 forms
-Direct Deposit
-Communications & Operations
-dojo4 email address
-dojo4 email lists
-Status emails
-Tracking time
-dojo4 avatar and gravatar
-google calendar
-Redmine
-Flowdock
-Github
-Dropbox
-sekrets
-Regular Meetings
-Daily standup
-Friday standup
-Org dev
-Weekly project check-in meeting
-Performance check-ins
-Core hours
-being a project lead
-Non-Discrimination Policy
-Equal Employment Opportunity
-Discriminatory Harassment
-Benefits
-Health Insurance
-Paid Leave
-Flex Time
-PTO
-PTO Accrual
-Scheduling Your PTO
-Unpaid Time Off
-PTO at Termination
-Paid Holidays
-Parental Leave for the birth / adoption of a child
-Paternity Leave
-Maternity Leave
-Meditation
-Professional Development
-Technology Stipend
-Food & Drink
-Boxcar Coffee - Yay!
-Friday lunch
-Beer & Snacks
-Health / Fitness
-Agreements
-Contract
-Acknowledgement
+#Table of Contents
+
+1. Expectations
+2. Money
+  * Salaries
+  * Performance Reviews & Raises
+  * Bonuses
+  * W-4 Forms
+  * Direct Deposit
+3. Communications & Operations
+  * dojo4 email address
+  * dojo4 email lists
+  * Status emails
+  * Tracking time
+  * dojo4 avatar and gravatar
+  * google calendar
+  * Redmine
+  * Flowdock
+  * Github
+  * Dropbox
+  * sekrets
+4. Regular Meetings
+  * Daily standup
+  * Friday standup
+  * Org dev
+  * Weekly project check-in meeting
+  * Performance check-ins
+  * Core hours
+  * Being a project lead
+5. People Policies
+  * Non-Discrimination Policy
+  * Equal Employment Opportunity
+  * Discriminatory Harassment
+6. Benefits
+  * Health Insurance
+  * Paid Leave
+    * Flex Time
+    * PTO
+    * PTO Accrual
+    * Scheduling Your PTO
+    * Unpaid Time Off
+    * PTO at Termination
+    * Paid Holidays
+    * Parental Leave for the birth / adoption of a child
+  * Meditation
+  * Professional Development
+  * Technology Stipend
+  * Food & Drink
+  * Health / Fitness
+7. Agreements
+  * Contract
+  * Acknowledgement
 
 
 
-Expectations
-In exchange for our benefits package, which includes a good salary, group health insurance, technology stipend, support for professional development, paid time off, gym membership, great colleagues, superior work, excellent culture, and all the coffee you can drink, dojo4 asks you to keep in mind a few expectations that will make this relationship very successful:
+#Expectations
+In exchange for our benefits package, which includes a **good salary, group health insurance, technology stipend, support for professional development, paid time off, gym membership, great colleagues, superior work, excellent culture, and all the coffee you can drink**, dojo4 asks you to keep in mind a few expectations that will make this relationship very successful:
 
-The amount, value and quality of your work:
+* The amount, value and quality of your work:
 If you’re a full-time employee, work on dojo4 activities for 40 hours or more (average) per week.
 Produce excellent work product befitting a professional in your field.
 Work mostly (>60% of your time) on projects that we can bill for.
