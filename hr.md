@@ -56,35 +56,33 @@
 #Expectations
 In exchange for our benefits package, which includes a **good salary, group health insurance, technology stipend, support for professional development, paid time off, gym membership, great colleagues, superior work, excellent culture, and all the coffee you can drink**, dojo4 asks you to keep in mind a few expectations that will make this relationship very successful:
 
-* The amount, value and quality of your work:
-If you’re a full-time employee, work on dojo4 activities for 40 hours or more (average) per week.
-Produce excellent work product befitting a professional in your field.
-Work mostly (>60% of your time) on projects that we can bill for.
-Your integration with dojo4:
-Participate in established processes; work to improve them if they need improvement.
-Be available instantly when you are working (by smartphone, IM, and Flowdock).
-Bring a computer that is secure, up-to-date, functional, and installed with all the tools that you require to do your job.
-Your demeanor:
-Try to make everyone’s job easier and more fun. Take things off of your coworker’s plates. Smile.
-Be generous with your help.
-Treat everyone who encounters dojo4 with respect and kindness.
-Your professional initiative:
-Take responsibility for your own professional development -- seek opportunities to grow your skills and make better work product.
-Help find potential clients for dojo4: Look for opportunities to talk about dojo4, invite people to discuss projects with us.
-Take ownership of your work and deliver it to the satisfaction of its budgetary stakeholders.
-Contribute to internal projects.
-Make things and put them in the public domain. Talk about them.
+1. The amount, value and quality of your work:
+  * If you’re a full-time employee, work on dojo4 activities for 40 hours or more (average) per week.
+  * Produce excellent work product befitting a professional in your field.
+  * Work mostly (>60% of your time) on projects that we can bill for.
+2. Your integration with dojo4:
+  * Participate in established processes; work to improve them if they need improvement.
+  * Be available instantly when you are working (by smartphone, IM, and Flowdock).
+  * Bring a computer that is secure, up-to-date, functional, and installed with all the tools that you require to do your job.
+3. Your demeanor:
+  * Try to make everyone’s job easier and more fun. Take things off of your coworker’s plates. Smile.
+  * Be generous with your help.
+  * Treat everyone who encounters dojo4 with respect and kindness.
+4. Your professional initiative:
+  * Take responsibility for your own professional development -- seek opportunities to grow your skills and make better work product.
+  * Help find potential clients for dojo4: Look for opportunities to talk about dojo4, invite people to discuss projects with us.
+  * Take ownership of your work and deliver it to the satisfaction of its budgetary stakeholders.
+  * Contribute to internal projects.
+  * Make things and put them in the public domain. Talk about them.
 
 The above expectations apply every day. But they will be especially valuable:
-When we have an opportunity to give employee bonuses
-When we have an opportunity to change someone’s compensation
-When we have an opportunity to promote someone
-If we ever need to change the composition of our team
-Quarterly, when we review the state of dojo4
+- When we have an opportunity to give employee bonuses
+- When we have an opportunity to change someone’s compensation
+- When we have an opportunity to promote someone
+- If we ever need to change the composition of our team
+- Quarterly, when we review the state of dojo4
 									
 
-
-
 Money						
 Salaries								
 dojo4 values human beings very much and one of the hallmarks of working here is that you know that your compensation is one of our highest priorities.  We aren’t striving to create massive profits by keeping your salaries low--quite the opposite!  We strive to run a profitable business so that we can all get paid very well.  Towards this end, we encourage everyone to participate in selling dojo4 to prospective clients, and to maximize your efficiency on every job. The stronger dojo4 is, the stronger your salary can be.
