@@ -229,49 +229,49 @@ Harassment or intimidation of an employee, client or guest, because of that pers
 
 #Benefits
 
-Health Insurance
+##Health Insurance
 dojo4 offers its full-time employees and their dependants access to Rocky Mountain Small Group GH PPO 3000/100 Plan, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  dojo4 will pay 100% of monthly premiums for full-time employees and 25% of monthly premiums for their dependants.  If you choose to use another plan, dojo4 will pay, monthly, whatever we would have paid for your premium but cannot pay a stipend for the 25% of monthly premiums we would pay on our plan for dependants. To apply for this coverage, Corey will put you in contact with our broker. Dental is an option you may choose to add to your plan.
 
-Paid Leave
-dojo4’s employee benefits include three kinds of paid leave: flexible time off (flex time), paid time off (PTO) and days when the shop is closed and we all get the day off (aka holidays).
+##Paid Leave
+dojo4’s employee benefits include three main types of paid leave: flexible time off (flex time), paid time off (PTO) and days when the shop is closed and we all get the day off (aka holidays).  We also offer some paid parental leave.
 
-Flex Time
+###Flex Time
 dojo4 values a flexible work environment where you can choose when and where you put in your time, for the most part. For errands and appointments and the occasional afternoon bike ride or long weekend, you have the option to simply make up the time in the same week (or very soon before or thereafter), rather than using PTO.  While flex time should not build up over weeks or months, we do understand that sometimes projects may require consecutive weeks of overtime, and trust that each team member will average their time in a professional manner that meets the expectations of your colleagues and clients.  
 
 If you intend to use some flex time, feel free to let us know via your status@dojo4.com messages, but know that only you track and record your flex time.  
 
-PTO
+###PTO
 PTO is intended to be used for any personal need: for illness, for family, for vacation, etc.
 
-PTO Accrual
+####PTO Accrual
 dojo4 provides 15 days of PTO per year, in addition to paid holidays.  Five days of PTO are accrued every quarter (on Jan 1, April 1, and July 1) except for the last quarter of the year.  New employees are given an initial prorated number of days according to when in the quarter they are hired, with fractions of days rounded up to the half-day. If an employee is hired between October 1st and the end of the 3rd week of December, no PTO days are accrued at hire, but the full winter holiday week that dojo4 is closed will be paid, regardless of the exact date of hire.  You will not accrue PTO time while you are on an unpaid leave of absence or long-term disability.  
 
 Accrued PTO has no expiration -- you may carry it over from year to year. However, you may accrue a maximum of 15 days of PTO. Once you reach the maximum, you must use some accrued PTO in order to receive PTO at the next accrual. The intent of this policy is to encourage you to take time off for fun and recuperation.
 
-Scheduling Your PTO
+####Scheduling Your PTO
 PTO is a benefit of full time employment at dojo4, but its timing is subject to all manner of business context. There may be occasions, such as sudden illness, when you cannot give advance notice. In all other cases please request PTO (from Corey) and get approval for it. If your request for PTO creates substantial hardship for dojo4, please be prepared to adjust to accommodate the business.  In general, any full or partial day you do not work and do not make up with flex time will be considered PTO and will be deducted from your accrued PTO.  
 
 Please report any PTO used in segments no smaller than a half-day in your status@dojo4.com updates.  A dojo4 manager will track your PTO used and accrued, and can tell you your balance upon request.  You will also be notified if you’ve accrued more than 10 days of PTO, and are thus in danger of not being able to accrue the next 5-day installment at the start of the next quarter.
 
-Unpaid Time Off
+####Unpaid Time Off
 In some cases (lengthy illness or extended break from work), you may need to take more time off than your accrued PTO allows. In such cases, please discuss your situation with Corey.  Unpaid leave is a possibility, but it depends on many factors beyond the scope of this document. No unpaid leave will be granted until accrued PTO is exhausted.
 
-PTO at Termination
+####PTO at Termination
 You will be paid for all accrued PTO remaining when you leave the company.  You will not be paid out for accrued flex time or upcoming holidays.
 
-Paid Holidays
+###Paid Holidays
 In rare cases, one of dojo4’s partners may ask you to work during a shop closure. Those days will be reimbursed with PTO. In all other cases, enjoy a day off.
 
 Shop closure days are:
-New Year's Day (if on a weekday)
-4th of July (if on a weekday)
-Memorial Day
-Labor Day
-Thanksgiving Day
-Friday following Thanksgiving Day
-Dec. 25th - Dec. 31st
+- New Year's Day (if on a weekday)
+- 4th of July (if on a weekday)
+- Memorial Day
+- Labor Day
+- Thanksgiving Day
+- Friday following Thanksgiving Day
+- Dec. 25th - Dec. 31st
 
-Parental Leave for the birth / adoption of a child
+###Parental Leave for the birth / adoption of a child
 Parental leave after the birth of a child has been shown to cultivate significant benefits for the early development and health of a newborn. Supporting healthy families, and fostering equilibrium between home and work life, is integral to the success of dojo4, as a business and a culture. As such, dojo4 provides various benefits for paternity and maternity leave associated with the birth or adoption of a child by a dojo4 employee.
 
 The time-off offered is outlined below, but in each case there may be differences depending on the nature of your particular job and circumstances. Inevitably various questions will arise according to your situation:
@@ -281,63 +281,64 @@ what if I want to go to permanent part-time after my baby is born?
 if i go to unpaid time, is my job still guaranteed? for how long?
 
 Since dojo4 is a small company, with each employee filling a unique role, the answers to these questions will vary according to each circumstance. Please talk to us (the partners) about what you need and want in terms of having a new addition to your family. dojo4 will do its best in each situation to help support a healthy and sustainable family / work balance.
-Paternity Leave
+
+####Paternity Leave
 To qualify for Paternity Leave you must be an employee, working at least 30 hours/week. You must be taking the time off to support the mother or carer for the baby and intend to be fully involved in the child's upbringing. Rights to Paternity Leave are extra to your normal PTO allowance.
 
-To qualify for Paternity Leave, you must be employed by dojo4 for at least 26 weeks by either the 15th week before the week that the baby is due or the end of the week you are notified you are matched with the child you are adopting
+To qualify for Paternity Leave, you must be employed by dojo4 for at least 26 weeks by either the 15th week before the week that the baby is due or the end of the week you are notified you are matched with the child you are adopting.
 
 You must also be either the:
-biological father of the child
-mother's partner
-child's adopter
-partner of the child's adopter
+- biological father of the child
+- mother's partner
+- child's adopter
+- partner of the child's adopter
 
 dojo4 will pay 100% of your regular salary for the first two weeks after the baby is born or adopted. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
-Maternity Leave
+
+####Maternity Leave
 To qualify for Maternity Leave you must be an employee, working at least 30 hours/week. You must be taking the time off to care of yourself and your newborn or adopted child. Rights to Maternity Leave are extra to your normal PTO allowance.
 
 To qualify for Maternity Leave, you must be employed by dojo4 for at least 26 weeks by either the 15th week before the week that the baby is due or the end of the week you are notified you are matched with the child you are adopting
 
 You must also be either the:
-biological mother of the child
-child's adopter
+- biological mother of the child
+- child's adopter
 
 dojo4 will cover the first two weeks of your leave at 100% of your salary after the baby is born or adopted. After that, as a dojo4 employee you are covered by our short-term disability insurance policy which will cover 60% of your weekly salary up to $1,000 for up to 8 weeks. dojo4 will cover the remaining 40% for the next 4 consecutive weeks, and 20% for the next 2 consecutive weeks. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
 
 If you were already pregnant at the time you were first employed at dojo4, you may not qualify for dojo4 paid maternity leave benefits, however as a dojo4 employee, your short-term disability insurance will cover 60% of your weekly salary up to $1,000 for up 2 weeks and your normal PTO allowance can also be applied at will.
 
-Meditation
+##Meditation
 Meditation is practiced at dojo4 weekly.  Our current schedule is Thursdays at 1pm.  This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instructions available if desired.
 
-Professional Development
+##Professional Development
 Ongoing education, training and participation in learning communities is encouraged and supported at dojo4. dojo4 will help you attend job related conferences or trainings when financially possible. Wonder if a particular event is job-related? Just ask.
 
-Technology Stipend
+##Technology Stipend
 dojo4 wants you to love your technology and have computers and phones that work. Each FT dojo4 employee is granted a $1,500/year stipend to keep their hardware and software up to date. It will be paid monthly.
 
 We have some basic standards for technology that we’d like your phone and computer to meet. Your computer needs to be stable, secure, loaded with legal copies of the software you use to do your job, and powerful enough to run that software. Your phone needs to be similar to the phones we build software for -- Android or iOS -- and it should ring if we call you. The technology stipend is intended to help cover the costs of keeping your tools sharp.
 
-Food & Drink
-Boxcar Coffee - Yay!
+##Food & Drink
+###Boxcar Coffee - Yay!
 dojo4 has a tab at the inimitable and delicious Boxcar Coffee Roasters at 1825 Pearl St. Get yourself a coffee on us every day of the week!  Just tell the barista that you are with dojo4.
 
-Friday lunch
+###Friday lunch
 We almost always order take out from a local downtown restaurant for the team on Fridays so that we can enjoy a meal together after Friday standup.
 
-Beer & Snacks
+###Beer & Snacks
 We’re not making any promises, but we find that providing a few cold ones and something to munch on greatly increases attendance at important meetings like org dev.  Be there or be thirsty!
 
-Health / Fitness
+##Health / Fitness
 While pounding on a keyboard may keep your fingers nimble, please also make use of any of Boulder’s fine Rec Centers, if you so desire.  Just ask to have your name put on the group card! 
 
 
 
-
-Agreements									
-Contract
+#Agreements									
+##Contract
 You will be invited to join a contract through Contractual.ly. You will have to sign up for a free account in order to be able to read and electronically sign your subcontractor or employee agreement with dojo4. By joining your contract in Contractual.ly, there will also be the opportunity to negotiate, in writing, any particular adjustments to your agreement.
 
-Acknowledgement
+##Acknowledgement
 By signing your employment contract you acknowledge that you will adhere to both the content of the employment contract as well as the content of this Employee Handbook and any other orientation materials you received.
 								
 							
