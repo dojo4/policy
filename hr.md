@@ -5,8 +5,7 @@
   * Salaries
   * Performance Reviews & Raises
   * Bonuses
-  * W-4 Forms
-  * Direct Deposit
+  * Zenefits & Zenpayroll
 3. Communications & Operations
   * dojo4 email address
   * dojo4 email lists
@@ -17,7 +16,6 @@
   * Redmine
   * Flowdock
   * Github
-  * Dropbox
   * sekrets
 4. Regular Meetings
   * Daily standup
@@ -27,7 +25,8 @@
   * Performance check-ins
   * Core hours
   * Being a project lead
-5. People Policies
+5. Environmental Policy
+6. People Policies
   * Non-Discrimination Policy
   * Equal Employment Opportunity
   * Discriminatory Harassment
@@ -42,6 +41,9 @@
     * PTO at Termination
     * Paid Holidays
     * Parental Leave for the birth / adoption of a child
+    * Professional Financial Advising
+    * Life Insurance Policies
+    * Merit-Based, Peer-Nominated Cash Bonuses
   * Meditation
   * Professional Development
   * Technology Stipend
@@ -91,16 +93,13 @@ dojo4 values human beings very much and one of the hallmarks of working here is 
 ##Performance Reviews & Raises
 dojo4 does not have a formalized process for reviews and raises. Generally, raises are offered when resources are available and performance warrants. Please don’t be shy to ask the partners for a raise if you feel you deserve one and it has not yet been offered.
 
-Performance reviews are, informally, a part of daily activity at dojo4 in the form of code reviews. However, the aim is to do more formal reviews on a quarterly basis or as needed. If you would like a formal review, please ask and we’ll get it on the calendar. 
+Performance reviews are, informally, a part of daily activity at dojo4 in the form of code reviews. However, more formal reviews (including peer-to-peer feedback) will be given at least annually and/or as needed. If you would like a formal review outside of a regularly scheduled review process, please ask and we’ll get it on the calendar.
 
 ##Bonuses									
-dojo4 is a scrappy young business, and its profitability is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, we will award bonuses. See Expectations, above.
+dojo4 is a young business, and its profitability is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, we will award bonuses. See Expectations, above.
 
-##W-4 Forms
-Full-time employees:  The Form W-4 is used by dojo4 to determine the correct amount of tax withholding to deduct from employees' wages. The form is not mailed to the IRS, but rather retained by dojo4.  
-
-##Direct Deposit								
-We will collect your banking information (name on the bank account, routing and account numbers) in order to deposit your paycheck directly into your account on the 1st and 15th of every month. If you need an advance to the direct deposit, please let Corey know and most likely she’ll be able to write you a check.
+##Zenefits & Zenpayroll
+dojo4 uses two robust third-party systems to manage general HR data and run payroll.  As part of your onboarding you will receive emails from both Zenefits and ZenPayroll asking you to create your own private login and provide information that will be used for your I9, W4 and direct deposit.  These systems will also enable you to login to access health insurance, PTO tracking and other HR topics.
 
 
 
@@ -115,7 +114,7 @@ You will be given a dojo4 email address. Please use this address for internal an
 When you receive your dojo4 email address, you will be added to the nuclear@dojo4.com email list. Any email written to that address will be received by everyone else at dojo4. There are a few other lists, as well, that you will be added to on an as needed basis.
 
 ##Status emails
-Everyone at dojo4 also belongs to the status@dojo4.com email list. Please write to this address every morning with your status in the subject heading. This email will be received by each person at dojo4 and is meant to act as a status report / mini-standup so that each person gets a general sense of what everyone else is doing that day and what the basic structure of their schedule is for the day. You’ll get a sense of the content and style by seeing other people’s status messages. It is important that everyone writes in a status message early-ish in the day: it allows us to avoid having to have unnecessary meetings, micromanagement, and allows us to help each other with one another’s work load.
+Everyone at dojo4 also belongs to the status@dojo4.com email list. Please write to this address every morning with your status in the subject heading by 11am M-F. This email will be received by each person at dojo4 and is meant to act as a status report / mini-standup so that each person gets a general sense of what everyone else is doing that day and what the basic structure of their schedule is for the day. You’ll get a sense of the content and style by seeing other people’s status messages. It is important that everyone writes in a status message early-ish in the day: it allows us to avoid having to have unnecessary meetings, micromanagement, and allows us to help each other with one another’s work load.
 
 ##Tracking time			
 Please track your real time spent on dojo4 projects everyday. This includes client and internal projects. And please post your time from the previous day in your morning’s status message. Once a week a time tracking report will be sent out that will include everyone’s time tracked.  Please use this format for reporting time tracked in your status messages:
@@ -158,9 +157,6 @@ dojo4 uses Flowdock to communicate with each other throughout the day. Please be
 If for some reason you are a programmer without a Github account, please get one now. As a designer, it’s well worth considering getting one, as well. Please use Github to commit code on a daily basis.
 
 A note on our software development environment: Almost everyone at dojo4 touches code at some point, and people who touch code at dojo4 use a standardized coding environment. Individual environmental differences from the standard environment cannot be allowed to get in the way of work we do, so you should either be really good at managing your environment on your own time, or, better yet, use the same environment as the rest of us. We use OSX, generally; Github for source code management; RVM for Rails version management; Homebrew for OSX package management; and more. We don’t care what text editor you use. Ask us for help getting set up when you join the team.
-
-##Dropbox
-This system has yet to be perfected at dojo4. We keep lots of shared project files in a team Dropbox account, but have unfortunately yet to have made it consistent. The designers use it more effectively than anyone else, so if you are looking for particular assets, this is a good place to start.
 
 ##Sekrets
 All dojo4 credentials are kept in the dojo4LLC repository of https://sekrets.dojo4.com/. Please ask for the master password to get in. You should be able to find anything you need in sekrets. If you need to change or add any credentials for dojo4 or project operations, please be sure to record them in sekrets. Use judiciously and share only with other dojo4 employees. Any misuse of sekrets are grounds for immediate dismissal. 
@@ -212,6 +208,22 @@ You may be asked if you’d like to take on the role of ‘project lead’ on a 
 
 
 
+#Environmental Policy
+
+dojo4 considers environmentally intelligent practices to be an organizational priority.  Simply because dojo4 is in the business of virtual production does not mean that our impact on the environment is only a virtual reality.  We recognize that the manufacturing of computer equipment is currently a toxic and resource-heavy industry, and also that data centers are one of the biggest power users today.  According to a New York Times investigative report, “Worldwide, digital warehouses use about 30 billion watts of electricity, roughly equivalent to the output of 30 nuclear power plants....Data centers in the United States account for one-quarter to one-third of that load.”
+
+dojo4 is committed to being aware of the extent of our environmental impact, and to mitigating it in whatever ways possible, both through how we run our business here in Boulder, Colorado and how we advocate for industry-wide eco-friendly changes.  
+
+-We voluntarily pay higher electricity rates to ensure that our office is 100% wind-powered.
+-We operate with minimal computer equipment.
+-We don’t print things unless we absolutely must. 
+-We prioritize the environment in our purchase choices (of office supplies, etc.).
+-We do not use toxic chemicals for cleaning our office or in our garden beds.
+-We are centrally located in downtown Boulder, enabling most of our employees to walk or bike to work year-round, which they do. -We are also able to avoid air travel most of the time.
+-We primarily drink beer, because we understand that water is a precious resource not to be wasted.
+
+
+
 #People Policies
 
 ##Non-Discrimination Policy
@@ -246,12 +258,14 @@ PTO is intended to be used for any personal need: for illness, for family, for v
 ####PTO Accrual
 dojo4 provides 15 days of PTO per year, in addition to paid holidays.  Five days of PTO are accrued every quarter (on Jan 1, April 1, and July 1) except for the last quarter of the year.  New employees are given an initial prorated number of days according to when in the quarter they are hired, with fractions of days rounded up to the half-day. If an employee is hired between October 1st and the end of the 3rd week of December, no PTO days are accrued at hire, but the full winter holiday week that dojo4 is closed will be paid, regardless of the exact date of hire.  You will not accrue PTO time while you are on an unpaid leave of absence or long-term disability.  
 
+You will, however, accrue one additional day of PTO for each year you remain a FT employee of dojo4.  These additional days will be added on the anniversary of your hire date.
+
 Accrued PTO has no expiration -- you may carry it over from year to year. However, you may accrue a maximum of 15 days of PTO. Once you reach the maximum, you must use some accrued PTO in order to receive PTO at the next accrual. The intent of this policy is to encourage you to take time off for fun and recuperation.
 
 ####Scheduling Your PTO
-PTO is a benefit of full time employment at dojo4, but its timing is subject to all manner of business context. There may be occasions, such as sudden illness, when you cannot give advance notice. In all other cases please request PTO (from Corey) and get approval for it. If your request for PTO creates substantial hardship for dojo4, please be prepared to adjust to accommodate the business.  In general, any full or partial day you do not work and do not make up with flex time will be considered PTO and will be deducted from your accrued PTO.  
+PTO is a benefit of full time employment at dojo4, but its timing is subject to all manner of business context. There may be occasions, such as sudden illness, when you cannot give advance notice. In all other cases please request PTO through the Zenefits dashboard and get approval for it. If your request for PTO creates substantial hardship for dojo4, please be prepared to adjust to accommodate the business.  In general, any full or partial day you do not work and do not make up with flex time will be considered PTO and will be deducted from your accrued PTO.  
 
-Please report any PTO used in segments no smaller than a half-day in your status@dojo4.com updates.  A dojo4 manager will track your PTO used and accrued, and can tell you your balance upon request.  You will also be notified if you’ve accrued more than 10 days of PTO, and are thus in danger of not being able to accrue the next 5-day installment at the start of the next quarter.
+Please report any PTO used in segments no smaller than a half-day in your status@dojo4.com updates.  You can always see how much PTO you have accrued by logging into Zenefits.  You will also be notified if you’ve accrued more than 10 days of PTO, and are thus in danger of not being able to accrue the next 5-day installment at the start of the next quarter.
 
 ####Unpaid Time Off
 In some cases (lengthy illness or extended break from work), you may need to take more time off than your accrued PTO allows. In such cases, please discuss your situation with Corey.  Unpaid leave is a possibility, but it depends on many factors beyond the scope of this document. No unpaid leave will be granted until accrued PTO is exhausted.
@@ -307,6 +321,15 @@ You must also be either the:
 dojo4 will cover the first two weeks of your leave at 100% of your salary after the baby is born or adopted. After that, as a dojo4 employee you are covered by our short-term disability insurance policy which will cover 60% of your weekly salary up to $1,000 for up to 8 weeks. dojo4 will cover the remaining 40% for the next 4 consecutive weeks, and 20% for the next 2 consecutive weeks. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
 
 If you were already pregnant at the time you were first employed at dojo4, you may not qualify for dojo4 paid maternity leave benefits, however as a dojo4 employee, your short-term disability insurance will cover 60% of your weekly salary up to $1,000 for up 2 weeks and your normal PTO allowance can also be applied at will.
+
+#### Professional Financial Advising
+To help you select the best life insurance policy (should you choose to adopt one) as well as to answer any other investment-related financial questions you may have, dojo4 will offer you up to two hours of individual consulting time with Highlander Wealth.
+
+#### Life Insurance Policies
+We believe that investing in a permanent life insurance policy gives you and your family an incredibly flexible and lucrative way to save for the future.  Remember, you can always take out the money you put in, so it’s much more accessible than a traditional IRA option, and the benefit will always be tax deductible for you or your family.  For this reason, dojo4 recommends a permanent policy, but will contribute to a term life insurance policy of that’s what you choose instead. dojo4 commits to matching 100% of your monthly premium up to $50/month (a total of $600 per year).  That means, you could chose a $50/mo plan and we will contribute $25/mo, or you could choose a $500/mo plan and we will contribute $50 and you would contribute $450.  We will re-evaluate this number each year to see if we can raise our match.  Do keep in mind when choosing your plan that should you no longer work at dojo4, you would be responsible for the entirety of your premium in order to keep your policy.
+
+#### Merit-Based (Peer-Nominated) Cash Bonuses 
+A new bonus we’re excited to offer is “The Goodie Award” whereby your coworkers can nominate you to receive a $150 “Nice Work!” bonus.  The idea is to reward work that goes above and beyond and to encourage us all to acknowledge each other’s accomplishments.  A nomination form will be forthcoming so stay tuned -- merit-based, peer-to-peer Goodie Awards are coming soon!
 
 ##Meditation
 Meditation is practiced at dojo4 weekly.  Our current schedule is Thursdays at 1pm.  This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instructions available if desired.
