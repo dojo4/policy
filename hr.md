@@ -136,6 +136,18 @@ description of activities
 - please track the time you spend on internal projects, as well as client projects
 log the real hours you spend; do not adjust your hours anticipating some outcome. Work with dojo4’s business team to handle any disconnect between hours and value.
 
+For tracking internal time, please follow these guidelines:
+
+@dojo4 (this will imply “general” and include meetings, gif viewing, boxcar runs, project discussions that aren’t billable, housekeeping, admin, invoicing, etc.)
+
+@dojo4/sales (anything related to a potential project -- could be unbillable hours pitching new work to current clients, or work on a new potential client).
+
+@dojo4/dev (this includes writing blog posts for our website, updating our website or any tech that supports the site or our non-client github repos, social media for dojo4, etc.)
+
+@flex or @pto -- Even though you log your PTO in Zenefits, sharing it here alerts your coworkers.
+
+@moshimoshi -- Anything MMco related.  Please be project-specific in your notes.
+
 ##dojo4 avatar and gravatar
 As soon as we can, we’ll have someone create a dojo4 avatar for you. It’ll show up on the website, on the projects site, and anywhere else gravatars are linked to email addresses. Please sign up for gravatar with your dojo4 email address, and add this avatar. (You can also create a new address in an existing gravatar account).
 
