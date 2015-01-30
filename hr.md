@@ -1,4 +1,4 @@
-Table of Contents
+#Table of Contents
 * Expectations for Employees
 * A Note on Part-Time Employees
 * Expectations for Contractors
