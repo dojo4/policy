@@ -1,4 +1,4 @@
-#Table of Contents
+###Table of Contents
 * Expectations for Employees
 * A Note on Part-Time Employees
 * Expectations for Contractors
@@ -32,6 +32,10 @@
 * Non-Discrimination Policy
 * Equal Employment Opportunity
 * Discriminatory Harassment
+* Grievance Resolution
+* Disciplinary Procedures
+* Collective Bargaining Policy
+* Child Labor and Forced/Compulsory Labor Policy
 * Benefits
 * Health Insurance
 * Paid Leave
@@ -47,7 +51,6 @@
 * Maternity Leave
 * Professional Financial Advising
 * Life Insurance Policies
-* Merit-Based (Peer-Nominated) Cash Bonuses
 * Meditation
 * Professional Development
 * Technology Stipend
@@ -62,10 +65,13 @@
 
 
 
+
+
 ### Expectations for Employees
 In exchange for our benefits package, which includes a good salary, group health insurance, technology stipend, support for professional development, paid time off, gym membership, great colleagues, superior work, excellent culture, and all the coffee you can drink, dojo4 asks you to keep in mind a few expectations that will make this relationship very successful:
 
 The amount, value and quality of your work:
+
 * If you’re a full-time employee, work on dojo4 activities for 40 hours or more (average) per week.
 * Produce excellent work product befitting a professional in your field.
 * Work mostly (>60% of your time) on projects that we can bill for.
@@ -75,11 +81,13 @@ The amount, value and quality of your work:
 * Bring a computer that is secure, up-to-date, functional, and installed with all the tools that you require to do your job.
 
 Your demeanor:
+
 * Try to make everyone’s job easier and more fun. Take things off of your coworker’s plates. Smile.
 * Be generous with your help.
 * Treat everyone who encounters dojo4 with respect and kindness.
 
 Your professional initiative:
+
 * Take responsibility for your own professional development -- seek opportunities to grow your skills and make better work product.
 * Help find potential clients for dojo4: Look for opportunities to talk about dojo4, invite people to discuss projects with us.
 * Take ownership of your work and deliver it to the satisfaction of its budgetary stakeholders.
@@ -87,6 +95,7 @@ Your professional initiative:
 * Make things and put them in the public domain. Talk about them.
 
 The above expectations apply every day. But they will be especially valuable:
+
 * When we have an opportunity to give employee bonuses
 * When we have an opportunity to change someone’s compensation
 * When we have an opportunity to promote someone
@@ -137,27 +146,30 @@ Performance reviews are, informally, a part of daily activity at dojo4 in the fo
 dojo4 is a young business, and its profitability is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, we will award bonuses. See Expectations, above.
 
 ####Zenefits & ZenPayroll
-dojo4 uses two robust third-party systems to manage general HR data and run payroll.  As part of your onboarding you will receive emails from both Zenefits and ZenPayroll asking you to create your own private login and provide information that will be used for your I9, W4 (or 1099) and direct deposit.  These systems will also enable you to login to access health insurance, PTO tracking and other HR topics.
+dojo4 uses two robust third-party systems to manage general HR data and run payroll.  As part of your onboarding you will receive emails from both Zenefits and ZenPayroll asking you to create your own private login and provide information that will be used for your I9, W4 (or 1099) and direct deposit.  These systems will enable us to pay you via direct deposit, as well as give you access to your health insurance, PTO tracking and other HR topics.
+
+dojo4 contractors will be onboarded using our HR & financial systems: Contractually, Zenefits and ZenPayroll.  We use these systems for legal, tax and payment purposes.  Contractor payments are all processed through ZenPayroll, though you can choose to receive either a check or direct deposit.
+
 
 ####Invoicing Protocol for Contractors
-As a dojo4 contractor you will be onboarded using our HR & financial systems: Contractual.ly, Zenefits and ZenPayroll.  We use these systems for legal, tax and payment purposes.  
-
-Through whatever system you prefer- we use Freshbooks for invoicing our clients, but other options include Harvest, email, etc.  dojo4 will process invoices twice a month, on the 15th and last day of the month, and your invoice need to be submitted 2 days prior to the next payday. You will have the option of requesting direct deposit or physical checks.  If you find yourself in urgent need of a payment in between our scheduled dates, just be in touch with Emily Utz, Operations Manager, directly.
+All contractor hours are attached to tickets in Redmine.  Tracking your time this way replaces the need for you to invoice dojo4.  We simply run reports for each pay period (the 15th and last day of the month) and pay you for the hours you have logged since our last pay period.  If you find yourself in urgent need of a payment in between our scheduled dates, just be in touch with Emily Utz, Operations Manager, directly.
 
 The protocol for billables are:
 
-only work assigned to you through a project ticket and general time that you are asked to spend on dojo4 activities is billable
-if the work assigned to you through project ticket took significantly longer than the project lead estimated, please note why
-dojo4 reserves the right not to pay for shoddy or slow work, but will always work with contractors to find a fair outcome in outstanding circumstances
-anything you are specifically asked to do for dojo4 is billable - i.e. meetings, standups and internal projects - general conversation at dojo4 or through dojo4 channels is not
+* anything you are specifically asked to do for dojo4 is billable - i.e. meetings, standups and internal projects - general conversations at dojo4 or through dojo4 channels are not.
+* only work assigned to you through a project ticket and general time that you are asked to spend on dojo4 activities is billable.
+* if the work assigned to you through project ticket took significantly longer than the project lead estimated, please note why in Redmine.
+* dojo4 reserves the right not to pay for shoddy or slow work, but will always work with contractors to find a fair outcome in outstanding circumstances.
 
+Please see “Time tracking” below for further instructions on how to track time in Redmine.
 
 
 ###Communications & Operations  
  
 In keeping with the expectations we have of one another at dojo4, below are outlined some of the things that allow us to keep things running smoothly, empower each other to get good work done, have maximal fun, and not have to micromanage one another. Please learn and use these systems. You can bring any questions you might have to Corey.    
 
-You will report directly to Corey Kohn, COO, but you can expect to field frequent requests from any of dojo4’s managers and partners, and from any of dojo4’s other employees. Each of us serves the others.                           	 
+You will report directly to Corey Kohn, COO, but you can expect to field frequent requests from any of dojo4’s managers and partners, and from any of dojo4’s other employees. Each of us serves the others.       
+                    	 
 ####dojo4 email address
 You will be given a dojo4 email address. Please use this address for internal and client correspondence.  That said, we endeavor to keep our inboxes as empty as possible by using tools outlined below such as Redmine and Flowdock.
 
@@ -171,34 +183,35 @@ Everyone at dojo4 also belongs to the status@dojo4.com email list. Please write 
 Please track your real time spent on dojo4 projects everyday. This includes client and internal projects. 
 
 Rules of thumb for tracking your time:
-Record your time spent on each project at least daily, if not throughout the day
-round up to the nearest quarter or half hour, whatever makes the most sense for you.
-Please track the time you spend on internal projects, as well as client projects
-log the real hours you spend; do not adjust your hours anticipating some outcome. Work with dojo4’s business team to handle any disconnect between hours and value. You may use whatever system you prefer to track time, but in order for it to be payable, it must be recorded in Redmine. 
+
+* Record your time spent on each project at least daily, if not throughout the day.
+* Round up to the nearest quarter or half hour, whatever makes the most sense for you.
+* Employees (not contractors) should track the time you spend on internal projects, as well as client projects.
+* Log the real hours you spend; do not adjust your hours anticipating some outcome. Work with dojo4’s business team to handle any disconnect between hours and value. You may use whatever system you prefer to track time, but in order for it to be payable, it must be recorded in Redmine. 
 
 Here’s how you do it :
 you can log time on either a specific ticket (generally preferable) or on a project
 if you are logging time on a ticket, you do it from righthand side of the ticket view
 if what you were working on spans specific tickets, you can log it on the project in the righthand column of the project overview- you can also see details and run reports from here about how much time has been spent on the project and each ticket to-date - all time logged on tickets and sub projects rolls up into the main project
 this way you can also easily see what time you (or anyone else) has put in on a particular project or over a particular time span by running an Overall Spent Time report with any filter you need
-the same goes for time tracking on dojo4 internal projects or tasks, such as meetings - if there is a specific ticket for your work, please track your time under that ticket, otherwise track it under the general dojo4 project- and as with all projects, please ALWAYS include a short description of your work in the comment field
-
+the same goes for time tracking on dojo4 internal projects or tasks, such as meetings - if there is a specific ticket for your work, please track your time under that ticket, otherwise track it under the general dojo4 project- and as with all projects, please ALWAYS include a short description of your work in the comment field.
 
 
 #### dojo4 avatar and gravatar
 As soon as we can, we’ll have someone create a dojo4 avatar for you. It’ll show up on the website, on the projects site, and anywhere else gravatars are linked to email addresses. Please sign up for gravatar with your dojo4 email address, and add this avatar. (You can also create a new address in an existing gravatar account).
 
 #### Google calendar
-Please open a google calendar subscription under your dojo4 email address and share this calendar with everyone else at dojo4. With shared calendars we are all able to see each other’s basic schedules and able to plan around each other in that way. Please use this google calendar to invite people to meetings and manage your dojo4 appointments and other times you may be unavailable.
+Please open a google calendar subscription under your dojo4 email address and share this calendar with everyone else at dojo4.  Please name the calendar your first and last name.  With shared calendars we are all able to see each other’s basic schedules and able to plan around each other in that way. Please use this google calendar to invite people to meetings and manage your dojo4 appointments and other times you may be unavailable.  You should also add the calendar “Dojo Four” to your calendar so that you can see general office happenings.
 
 #### Redmine
 Redmine is an open-source, flexible project management web application. Written using Ruby on Rails framework, it is cross-platform and cross-database. You will be given access to projects.
     
-We use Redmine for:    
-project support
-flexible issue tracking system
-client communication
-time tracking
+We use Redmine for:
+    
+* project support
+* flexible issue tracking system
+* client communication
+* time tracking
 
 #### Flowdock
 dojo4 uses Flowdock to communicate with each other throughout the day. Please be sure to be in Flowdock during working hours and whenever you are doing dojo4 work.
@@ -208,11 +221,12 @@ If for some reason you are a programmer without a Github account, please get one
 
 A note on our software development environment: Almost everyone at dojo4 touches code at some point, and people who touch code at dojo4 use a standardized coding environment. Individual environmental differences from the standard environment cannot be allowed to get in the way of work we do, so you should either be really good at managing your environment on your own time, or, better yet, use the same environment as the rest of us. We use OSX, generally; Github for source code management; RVM for Rails version management; Homebrew for OSX package management; and more. We don’t care what text editor you use. Ask us for help getting set up when you join the team.
 
-
 #### Sekrets
 All dojo4 credentials are kept in the dojo4LLC repository of https://sekrets.dojo4.com/. Please ask for the master password to get in. You should be able to find anything you need in sekrets. If you need to change or add any credentials for dojo4 or project operations, please be sure to record them in sekrets. Use judiciously and share only with other dojo4 employees. Any misuse of sekrets are grounds for immediate dismissal.
 
+
 #### Regular Meetings
+
 ##### Daily standup
 Daily standups happen every weekday at noon. Everyone at the dojo stands up, generally in a circle, and gives a quick summary of what they are working on that day(s). Participants include both employees and contractors. It’s a chance for everyone to find out what everyone else is working on and where they may want/need to sync further. If you are not onsite, please use the Google Hangout (use this address: https://plus.google.com/hangouts/_/dojo4.com/standup?authuser=0
 ) to join the meeting.
@@ -220,33 +234,30 @@ Daily standups happen every weekday at noon. Everyone at the dojo stands up, gen
 ##### Friday standup               	 
 The dojo4 weekly standup happens promptly every Friday at 12:00pm and rarely takes more than 15-20 minutes. Our weekly standup is meant to allow us to gain a better understanding of the people we work with and what is important to them. We spend endless hours and emails relating the practical details of our work projects to each other, but it is rare that we get a chance to relate to each other in a genuine and candid way about what may (or may not) be meaningful to us. Granting a little time to cultivating that understanding with each other can feel incalculably more valuable to each other and the health of our business than any other way that we could spend 15 minutes ‘meeting’. There is also a chance at the end of the standup to make any general announcement (e.g. taking an upcoming vacation? or having a baby? this is a good time to let everyone know).
 
-Our weekly standups look something like this:
-The standup starts with everyone doing a bow and a clap, and ends with the reverse (clap then bow).
-We start with a minute or two of quiet, allowing everyone to slow down a little and arrive.
-A different person brings a question every week, that each person then has a chance to answer. Examples of some of the questions that have brought can be found in the dojo4 question bank.
+Our weekly standups look something like this: The standup starts with everyone doing a bow and a clap, and ends with the reverse (clap then bow).  We start with a minute or two of quiet, allowing everyone to slow down a little and arrive.  A different person brings a question every week, that each person then has a chance to answer. 
+
 The guidelines for the standup are:
-	* speak from the heart
-	* listen completely
+
+* speak from the heart
+* listen completely
 * don’t think about or decide what you are going to say while someone else is talking
-	* say only what needs to be said
-	* don’t withhold from saying something that needs to be said
-	* it is not necessary to speak
-	* don’t talk while someone else is talking
+* say only what needs to be said
+* don’t withhold from saying something that needs to be said
+* it is not necessary to speak
+* don’t talk while someone else is talking
 * each person goes only once
-	* anything said during the standup is confidential
-There’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.
-Who is going to bring the question the following week is decided at the end of each standup.
-Announcements from anyone who has one.
-We end with a clap and a bow.
+* anything said during the standup is confidential
+
+There’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.  Who is going to bring the question the following week is decided at the end of each standup.  Announcements are made by anyone who has one.  We end with a clap and a bow.
 
 ##### Orgdev
-Every Tuesday at 4:20pm everyone that works at dojo4 gathers for an hour of organizational development. The content of these meetings changes week to week, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
+Everyone that works at or with dojo4 gathers for an hour of organizational development on a regular basis. The content of these meetings changes week to week, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
 
 ##### Weekly project check-in meeting
 There is weekly project check-in meeting every Friday 11am. If you are not onsite, please use the Google Hangout to join the meeting.
 
 #### Performance check-ins
-Many of dojo4’s contributors like having a regularly scheduled opportunity to check in and hear how they’re doing, hear whether there is anything they can do better, and offer their own feedback for dojo4’s managers. We want that, too! Please schedule these at a sane interval with the manager you want to talk with.
+Many of dojo4’s contributors like having a regularly scheduled opportunity to check in and hear how they’re doing, whether there is anything they can do better, and offer their own feedback for dojo4’s managers. We want that, too! Please schedule these at a sane interval with the manager you want to talk with.
 
 #### Core hours
 Since many of us have variable schedules and may like to work remotely at times, dojo4 has some loose ‘core hours’ to ensure that there are at least some times that we are all likely to be in the same place at the same time. These hours are Tues-Thurs 1-5pm. These ‘core hours’ are meant to support communications, project flow and esprits de corp.
@@ -258,19 +269,22 @@ You may be asked if you’d like to take on the role of ‘project lead’ on a 
 
 ####Communications & Ops for Contractors
 
-dojo4 email & gravatar (?) - use when interacting directly with clients?
-Time tracking - in redmine (see above)
-Status emails - If you are working on a project (or were assigned work that it turns out you cannot do that day) please send in a status email as the first thing you do in your work day. 
-Github - Ara’s notes?
-Redmine - Ara’s notes?
-Flowdock - Ara’s notes?
-Sekrets - As per the subcontractor agreement: "SUBCONTRACTOR shall not disclose CLIENT or dojo4 proprietary information and the contents or nature of the project outside of dojo4 and CLIENT personnel and/or SUBCONTRACTORs on the project team." All info in the sekrets is proprietary information. Misuse of sekrets will result in incarceration into a self-inflicted ethical hell or permanent assignment as a low-life pariah, or both. 
-Google calendar- As a courtesy to our friends and team members at dojo4, please share a regularly updated google calendar with them using your dojo4 address.
-Meetings
-Daily standup- Please feel join us for standup, either in person or by Google Hangout (https://plus.google.com/hangouts/_/dojo4.com/standup?authuser=0) if you are working on a dojo4 project.
-Friday standup and lunch - All friends and family of dojo4 are invited for Friday standup (http://dojo4.com/blog/a-bow-and-a-clap) and a "catered" lunch that day. If you think you'll be there, please let Corey know you're coming so that she can plan for lunch.
-Leads
-orgdev?
+* Please always use a dojo4 email address and gravatar (if you don’t already have one, ask and we’ll get one to you) when interacting directly with clients.
+* Time tracking - use Redmine on a daily basis for all hours you want to be paid for (see above for details).
+* Daily status emails - If you are working on a project (or were assigned work that it turns out you cannot do that day) please send in a status email as the first thing you do in your work day. 
+* Github - Please use Github to commit code on a daily basis.
+* Redmine - Please use Redmine for project support, flexible issue tracking, client communication and of course, time tracking.
+* Flowdock - Please use Flowdock for dojo4 communications throughout the day. 
+be aware of threads adn use those to streamline communication
+easily monitor Redmine activity streaming into Flowdock
+easily monitor commits through Github streaming into Flowdock
+some email streams can be monitored here, too
+* Sekrets - As per the subcontractor agreement: "SUBCONTRACTOR shall not disclose CLIENT or dojo4 proprietary information and the contents or nature of the project outside of dojo4 and CLIENT personnel and/or SUBCONTRACTORs on the project team." All info in the sekrets is proprietary information. Misuse of Sekrets will result in incarceration into a self-inflicted ethical hell or permanent assignment as a low-life pariah, or both. 
+* Google calendar- As a courtesy to our friends and team members at dojo4, please share a regularly updated google calendar with them using your dojo4 address.  It is helpful if that calendar shares your name, i.e. “Corey Kohn.”
+* Meetings: 
+Daily standup- Please feel join us for standup, either in person or by Google Hangout if you are working on a dojo4 project.
+* Friday standup and lunch - All friends and family of dojo4 are invited for Friday standup and a "catered" lunch that day. If you think you'll be there, please let Corey know by that morning so that she order lunch.
+* Org Dev - we do an organization development meeting during lunch, every first Friday of each month - we’d love to have you there!
 
 
 ### Environmental Policy
@@ -279,15 +293,13 @@ dojo4 considers environmentally intelligent practices to be an organizational pr
 
 dojo4 is committed to being aware of the extent of our environmental impact, and to mitigating it in whatever ways possible, both through how we run our business here in Boulder, Colorado and how we advocate for industry-wide eco-friendly changes.  
 
-We voluntarily pay higher electricity rates to ensure that our office is 100% wind-powered.
-We operate with minimal computer equipment.
-We don’t print things unless we absolutely must. 
-We prioritize the environment in our purchase choices (of office supplies, etc.).
-We do not use toxic chemicals for cleaning our office or in our garden beds.
-We are centrally located in downtown Boulder, enabling most of our employees to walk or bike to work year-round, which they do.  We are also able to avoid air travel most of the time.
-We primarily drink beer, because we understand that water is a precious resource not to be wasted.
-
-
+* We voluntarily pay higher electricity rates to ensure that our office is 100% wind-powered.
+* We operate with minimal computer equipment.
+* We don’t print things unless we absolutely must. 
+* We prioritize the environment in our purchase choices (of office supplies, etc.).
+* We do not use toxic chemicals for cleaning our office or in our garden beds.
+* We are centrally located in downtown Boulder, enabling most of our employees to walk or bike to work year-round, which they do.  We are also able to avoid air travel most of the time.
+* We primarily drink beer, because we understand that water is a precious resource not to be wasted.
 
 
 ### People Policies
@@ -303,13 +315,39 @@ Any employee, client or volunteer who believes that s/he or any other affiliate 
 #### Discriminatory Harassment
 Harassment or intimidation of an employee, client or guest, because of that person’s race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion is specifically prohibited and may be grounds for termination. Harassment and intimidation includes abusive or threatening language or behavior. dojo4 is committed to maintaining a workplace that is free of any such harassment and will not tolerate discrimination against employees, clients, volunteers or guests. Issues of discriminatory treatment, harassment, or intimidation on any of these bases should immediately be reported to the COO and, if substantiated, prompt action will be taken.
 
+#### Grievance Resolution
+If as an employee or contractor to dojo4, you have a grievance, please follow these guidelines:
+Whenever possible use an informal process before entering into the formal process of filing a grievance. Talking face-to-face and from the heart is the first step.
+If an informal resolution is not effective, start the formal grievance procedure by putting your grievance into writing.
+Present your written grievance to one or both of the owners of dojo4.
+A face-to-face meeting will be arranged within 3 days of the formal presentation of the written grievance. 
+Either the owners or the person presenting the complaint may arrange for a third-party to be present. Each party must approve the choice of the third-party.
+The meeting will be used to establish the facts and have all parties agree on a resolution. 
+Any resolution will be presented to all parties in writing.
+All grievances will be treated with absolutely confidential except between owners of dojo4, or with legal authorities, should the complaint address criminal activity.
+#### Disciplinary Procedure
 
+In the event that a disciplinary issue is recognized with an employee, the following steps will be taken: 
+
+The attempt at addressing the issue will be informal and will involve direct conversation between an owner(s) of dojo4 and the employee.
+If the informal conversation is not deemed effective, the employee will receive a written statement from the owners of dojo4, outlining the problem.
+A face-to-face meeting will be arranged within 3 days of having the problem expressed in writing.
+Either the owners or the person presenting the complaint may arrange for a third-party to be present. Each party must approve the choice of the third-party.
+The meeting will be used to establish the facts and have all parties agree on a resolution. 
+Any resolution will be presented to all parties in writing.
+All disciplinary action will be treated with absolutely confidential except between owners of dojo4, or with legal authorities, should the complaint address criminal activity.
+Whether or not an effective resolution is found, the owners of dojo4 reserve the right to terminate employment of any employee, at any time, with just cause. 
+#### Collective Bargaining Policy
+dojo4 recognizes and supports the rights of workers, individual and unionized. The decision by dojo4 employees to enter into a collective bargaining agreement is governed by federal laws. dojo4 takes no position on such agreements and neither encourages nor discourages them, but will recognize and respect such agreements as entered into by any dojo4 employee. 
+
+#### Commitment to Ban Child Labor and Forced/Compulsory Labor 
+dojo4 is committed  business practices and relationships that restrict and avoid employment to those age 15 or older, or the local minimum employment age, or the mandatory school age, whichever is higher. To this effect we commit to avoid using products, tools and resources, or fostering business relationships, that make use of child labor or any forced labor or exploitative working conditions. dojo4’s policy on Child Labor and Forced Labor is based on International Labor Organization (ILO) conventions and national laws, and recognizes regional and cultural differences. 
 
 
 ### Benefits
 
 #### Health Insurance
-dojo4 offers its full-time employees and their dependants access to Rocky Mountain Small Group GH PPO 3000/100 Plan, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  dojo4 will pay 100% of monthly premiums for full-time employees and 25% of monthly premiums for their dependants.  If you choose to use another plan, dojo4 will pay, monthly, whatever we would have paid for your premium but cannot pay a stipend for the 25% of monthly premiums we would pay on our plan for dependants. To apply for this coverage, Corey will put you in contact with our broker. Dental is an option you may choose to add to your plan.
+dojo4 offers its full-time employees and their dependants access to the Anthem / Blue Cross PPO Pref DA+ GZPA Plan, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  dojo4 will pay 100% of monthly premiums for full-time employees and 25% of monthly premiums for their dependants.  If you choose to use another plan, dojo4 will pay, monthly, whatever we would have paid for your premium but cannot pay a stipend for the 25% of monthly premiums we would pay on our plan for dependants. To apply for this coverage, Corey will put you in contact with our broker. Dental is an option you may choose to add to your plan.
 
 #### Paid Leave
 dojo4’s employee benefits include three main types of paid leave: flexible time off (flex time), paid time off (PTO) and days when the shop is closed and we all get the day off (aka holidays).  We also offer some paid parental leave.
@@ -392,11 +430,6 @@ To help you select the best life insurance policy (should you choose to adopt on
 #### Life Insurance Policies
 We believe that investing in a permanent life insurance policy gives you and your family an incredibly flexible and lucrative way to save for the future.  Remember, you can always take out the money you put in, so it’s much more accessible than a traditional IRA option, and the benefit will always be tax deductible for you or your family.  For this reason, dojo4 recommends a permanent policy, but will contribute to a term life insurance policy of that’s what you choose instead. dojo4 commits to matching 100% of your monthly premium up to $50/month (a total of $600 per year).  That means, you could chose a $50/mo plan and we will contribute $25/mo, or you could choose a $500/mo plan and we will contribute $50 and you would contribute $450.  We will re-evaluate this number each year to see if we can raise our match.  Do keep in mind when choosing your plan that should you no longer work at dojo4, you would be responsible for the entirety of your premium in order to keep your policy.
 
-
-#### Merit-Based (Peer-Nominated) Cash Bonuses 
-A new bonus we’re excited to offer is “The Goodie Award” whereby your coworkers can nominate you to receive a $150 “Nice Work!” bonus.  The idea is to reward work that goes above and beyond and to encourage us all to acknowledge each other’s accomplishments.  A nomination form will be forthcoming so stay tuned -- merit-based, peer-to-peer Goodie Awards are coming soon!
-
-
 #### Meditation
 Meditation is practiced at dojo4 weekly.  Our current schedule is Thursdays at 1pm.  This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instructions available if desired.
 
@@ -420,8 +453,6 @@ We’re not making any promises, but we find that providing a few cold ones and 
 
 #### Health / Fitness
 While pounding on a keyboard may keep your fingers nimble, please also make use of any of Boulder’s fine Rec Centers, if you so desire.  Just ask to have your name put on the group card!
-
-
 
 
 ### Agreements                               	 
