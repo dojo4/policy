@@ -117,11 +117,15 @@ First and foremost, we extend to you an unlimited coffee tab at the inimitable B
 * Chair massage for those tense shoulders of yours
 * Yoga @ the dojo
 * Free lunch every Friday
+* Org Dev every 1st Friday of the month
 
 In exchange for these benefits and the timely payment of all your invoices, we ask that you:
 * Produce excellent work product befitting a professional in your field.
 * Work mostly (>95% of your time) on projects that we can bill for.
-* Participate in established dojo4 processes; work to improve them if they need improvement.
+* Participate in established dojo4 processes; work to improve them if they need improvement. Some of these are status emails, Flowdock, Redmine, standups, and Github. (see Communications & Ops for Contractors)
+* Always send a status email to status@dojo4.com (see Status Emails) on every day that you are putting in time on a dojo4 project. 
+* Standups (see Daily standup and Friday standup) are *not* mandatory but provide a nice cadence to the workday and are a helpful way of touching base with the rest of the dojo4 team. If you are remote, you can join at https://plus.google.com/hangouts/_/dojo4.com/standup?authuser=0.
+* Always keep transparency of process and production as a rule of thumb. If you disappeared, your work should not disappear with you- i.e. make sure it is in Redmine & Github, not in email, unshared Google docs or any other non-transparent format. 
 * Be available instantly when you are working (by smartphone, IM, and Flowdock).
 * Try to make everyone’s job easier and more fun. Take things off of your coworker’s plates. Smile.
 * Be generous with your help.
@@ -275,10 +279,10 @@ You may be asked if you’d like to take on the role of ‘project lead’ on a 
 * Github - Please use Github to commit code on a daily basis.
 * Redmine - Please use Redmine for project support, flexible issue tracking, client communication and of course, time tracking.
 * Flowdock - Please use Flowdock for dojo4 communications throughout the day. 
-be aware of threads adn use those to streamline communication
-easily monitor Redmine activity streaming into Flowdock
-easily monitor commits through Github streaming into Flowdock
-some email streams can be monitored here, too
+	- be aware of threads adn use those to streamline communication
+	- easily monitor Redmine activity streaming into Flowdock
+	- easily monitor commits through Github streaming into Flowdock
+	- some email streams can be monitored here, too
 * Sekrets - As per the subcontractor agreement: "SUBCONTRACTOR shall not disclose CLIENT or dojo4 proprietary information and the contents or nature of the project outside of dojo4 and CLIENT personnel and/or SUBCONTRACTORs on the project team." All info in the sekrets is proprietary information. Misuse of Sekrets will result in incarceration into a self-inflicted ethical hell or permanent assignment as a low-life pariah, or both. 
 * Google calendar- As a courtesy to our friends and team members at dojo4, please share a regularly updated google calendar with them using your dojo4 address.  It is helpful if that calendar shares your name, i.e. “Corey Kohn.”
 * Meetings: 
