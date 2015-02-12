@@ -125,7 +125,7 @@ In exchange for these benefits and the timely payment of all your invoices, we a
 * Participate in established dojo4 processes; work to improve them if they need improvement. Some of these are status emails, Flowdock, Redmine, standups, and Github. (see Communications & Ops for Contractors)
 * Always send a status email to status@dojo4.com (see Status Emails) on every day that you are putting in time on a dojo4 project. 
 * Standups (see Daily standup and Friday standup) are *not* mandatory but provide a nice cadence to the workday and are a helpful way of touching base with the rest of the dojo4 team. If you are remote, you can join at https://plus.google.com/hangouts/_/dojo4.com/standup?authuser=0.
-* Always keep transparency of process and production as a rule of thumb. If you disappeared, your work should not disappear with you- i.e. make sure it is in Redmine & Github, not in email, unshared Google docs or any other non-transparent format. 
+* Always keep transparency of process and repeatablility production as a rule of thumb. If you disappeared, your work should not disappear with you- i.e. make sure it is in Redmine & Github, not in email, unshared Google docs or any other non-transparent format. 
 * Be available instantly when you are working (by smartphone, IM, and Flowdock).
 * Try to make everyone’s job easier and more fun. Take things off of your coworker’s plates. Smile.
 * Be generous with your help.
