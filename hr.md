@@ -112,15 +112,15 @@ The dojo4 family has always been comprised of independent self-starters who hold
 First and foremost, we extend to you an unlimited coffee tab at the inimitable Boxcar, because caffeinated contractors are happy contractors.  There are several other benefits described in this handbook dojo4 extends to our subcontractor family:
 
 * Professional financial advising
-* Gym membership
+* Gym membership (currently use of the dojo4 Boulder Rec Center card)
 * Meditation
 * Chair massage for those tense shoulders of yours
 * Yoga @ the dojo
 * Free lunch every Friday
-* Org Dev every 1st Friday of the month
 
 In exchange for these benefits and the timely payment of all your invoices, we ask that you:
 * Produce excellent work product befitting a professional in your field.
+* Own the projects that you work on. At dojo4 there is a very thin management layer- that means that you will be relating directly with clients, and are expected to keep the health of the whole project in mind and fully own its success (and challenges).
 * Work mostly (>95% of your time) on projects that we can bill for.
 * Participate in established dojo4 processes; work to improve them if they need improvement. Some of these are status emails, Flowdock, Redmine, standups, and Github. (see Communications & Ops for Contractors)
 * Always send a status email to status@dojo4.com (see Status Emails) on every day that you are putting in time on a dojo4 project. 
@@ -149,7 +149,7 @@ Performance reviews are, informally, a part of daily activity at dojo4 in the fo
 #### Bonuses                               	 
 dojo4 is a young business, and its profitability is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, we will award bonuses. See Expectations, above.
 
-####Zenefits & ZenPayroll
+####Zenefits & Gusto (formerly ZenPayroll)
 dojo4 uses two robust third-party systems to manage general HR data and run payroll.  As part of your onboarding you will receive emails from both Zenefits and ZenPayroll asking you to create your own private login and provide information that will be used for your I9, W4 (or 1099) and direct deposit.  These systems will enable us to pay you via direct deposit, as well as give you access to your health insurance, PTO tracking and other HR topics.
 
 dojo4 contractors will be onboarded using our HR & financial systems: Contractually, Zenefits and ZenPayroll.  We use these systems for legal, tax and payment purposes.  Contractor payments are all processed through ZenPayroll, though you can choose to receive either a check or direct deposit.
@@ -194,11 +194,12 @@ Rules of thumb for tracking your time:
 * Log the real hours you spend; do not adjust your hours anticipating some outcome. Work with dojo4’s business team to handle any disconnect between hours and value. You may use whatever system you prefer to track time, but in order for it to be payable, it must be recorded in Redmine. 
 
 Here’s how you do it :
-you can log time on either a specific ticket (generally preferable) or on a project
-if you are logging time on a ticket, you do it from righthand side of the ticket view
-if what you were working on spans specific tickets, you can log it on the project in the righthand column of the project overview- you can also see details and run reports from here about how much time has been spent on the project and each ticket to-date - all time logged on tickets and sub projects rolls up into the main project
-this way you can also easily see what time you (or anyone else) has put in on a particular project or over a particular time span by running an Overall Spent Time report with any filter you need
-the same goes for time tracking on dojo4 internal projects or tasks, such as meetings - if there is a specific ticket for your work, please track your time under that ticket, otherwise track it under the general dojo4 project- and as with all projects, please ALWAYS include a short description of your work in the comment field.
+* you can log time on either a specific ticket (generally preferable) or on a project
+* if you are logging time on a ticket, you do it from righthand side of the ticket view
+* if what you were working on spans specific tickets, you can log it on the project in the righthand column of the project overview
+* you can also see details and run reports from here about how much time has been spent on the project and each ticket to-date
+* all time logged on tickets and sub projects rolls up into the main project - this way you can also easily see what time you (or anyone else) has put in on a particular project or over a particular time span by running an Overall Spent Time report with any filter you need
+* the same goes for time tracking on dojo4 internal projects or tasks, such as meetings - if there is a specific ticket for your work, please track your time under that ticket, otherwise track it under the general dojo4 project- and as with all projects, please ALWAYS include a short description of your work in the comment field.
 
 
 #### dojo4 avatar and gravatar
@@ -255,21 +256,13 @@ The guidelines for the standup are:
 There’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.  Who is going to bring the question the following week is decided at the end of each standup.  Announcements are made by anyone who has one.  We end with a clap and a bow.
 
 ##### Orgdev
-Everyone that works at or with dojo4 gathers for an hour of organizational development on a regular basis. The content of these meetings changes week to week, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
-
-##### Weekly project check-in meeting
-There is weekly project check-in meeting every Friday 11am. If you are not onsite, please use the Google Hangout to join the meeting.
+Depending on the time of year, dojo4 gathers for an hour of organizational development on a regular basis. The content of these meetings changes, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
 
 #### Performance check-ins
 Many of dojo4’s contributors like having a regularly scheduled opportunity to check in and hear how they’re doing, whether there is anything they can do better, and offer their own feedback for dojo4’s managers. We want that, too! Please schedule these at a sane interval with the manager you want to talk with.
 
-#### Core hours
-Since many of us have variable schedules and may like to work remotely at times, dojo4 has some loose ‘core hours’ to ensure that there are at least some times that we are all likely to be in the same place at the same time. These hours are Tues-Thurs 1-5pm. These ‘core hours’ are meant to support communications, project flow and esprits de corp.
-
-The same logic applies to this as to stand ups: it's good to be there, and if you really can't, don't sweat it. But please do try to bias yourself toward planning on being here during those hours. And try not to plan off-site meetings during those times unless you have to.
-
 #### Being a project lead
-You may be asked if you’d like to take on the role of ‘project lead’ on a particular project. In most cases, this is completely optional. If you are interested in this type of position, please make yourself familiar with the responsibilities of the role.
+You may be asked if you’d like to take on the role of ‘project lead’ on a particular project. In most cases, this is completely optional. If you are interested in this type of position, please make yourself familiar with the responsibilities of the role. Please see https://github.com/dojo4/dojo4/blob/master/docs/manifestos/being-a-lead.md.
 
 ####Communications & Ops for Contractors
 
@@ -288,7 +281,7 @@ You may be asked if you’d like to take on the role of ‘project lead’ on a 
 * Meetings: 
 Daily standup- Please feel join us for standup, either in person or by Google Hangout if you are working on a dojo4 project.
 * Friday standup and lunch - All friends and family of dojo4 are invited for Friday standup and a "catered" lunch that day. If you think you'll be there, please let Corey know by that morning so that she order lunch.
-* Org Dev - we do an organization development meeting during lunch, every first Friday of each month - we’d love to have you there!
+* Org Dev - if we're not currently hosting organizational development sessions and you think they'd be helpful, please let us know and we'll make it happen.
 
 
 ### Environmental Policy
@@ -329,6 +322,7 @@ Either the owners or the person presenting the complaint may arrange for a third
 The meeting will be used to establish the facts and have all parties agree on a resolution. 
 Any resolution will be presented to all parties in writing.
 All grievances will be treated with absolutely confidential except between owners of dojo4, or with legal authorities, should the complaint address criminal activity.
+
 #### Disciplinary Procedure
 
 In the event that a disciplinary issue is recognized with an employee, the following steps will be taken: 
@@ -341,6 +335,7 @@ The meeting will be used to establish the facts and have all parties agree on a 
 Any resolution will be presented to all parties in writing.
 All disciplinary action will be treated with absolutely confidential except between owners of dojo4, or with legal authorities, should the complaint address criminal activity.
 Whether or not an effective resolution is found, the owners of dojo4 reserve the right to terminate employment of any employee, at any time, with just cause. 
+
 #### Collective Bargaining Policy
 dojo4 recognizes and supports the rights of workers, individual and unionized. The decision by dojo4 employees to enter into a collective bargaining agreement is governed by federal laws. dojo4 takes no position on such agreements and neither encourages nor discourages them, but will recognize and respect such agreements as entered into by any dojo4 employee. 
 
@@ -437,10 +432,10 @@ To help you select the best life insurance policy (should you choose to adopt on
 We believe that investing in a permanent life insurance policy gives you and your family an incredibly flexible and lucrative way to save for the future.  Remember, you can always take out the money you put in, so it’s much more accessible than a traditional IRA option, and the benefit will always be tax deductible for you or your family.  For this reason, dojo4 recommends a permanent policy, but will contribute to a term life insurance policy of that’s what you choose instead. dojo4 commits to matching 100% of your monthly premium up to $50/month (a total of $600 per year).  That means, you could chose a $50/mo plan and we will contribute $25/mo, or you could choose a $500/mo plan and we will contribute $50 and you would contribute $450.  We will re-evaluate this number each year to see if we can raise our match.  Do keep in mind when choosing your plan that should you no longer work at dojo4, you would be responsible for the entirety of your premium in order to keep your policy.
 
 #### Meditation
-Meditation is practiced at dojo4 weekly.  Our current schedule is Thursdays at 1pm.  This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instructions available if desired.
+In the past meditation was practiced at dojo4 weekly.  The schedule is currently on hiatus, but if you have an interest, please let us know and we'll reinstate the regular group meditation center. This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instruction can be available if desired.
 
 #### Professional Development
-Ongoing education, training and participation in learning communities is encouraged and supported at dojo4. dojo4 will help you attend job related conferences or trainings when financially possible. Wonder if a particular event is job-related? Just ask.
+Ongoing education, training and participation in learning communities is encouraged and supported at dojo4. If you are a full-time employee, dojo4 will help you attend job related conferences or trainings when financially possible. Wonder if a particular event is job-related? Just ask.
 
 #### Technology Stipend
 dojo4 wants you to love your technology and have computers and phones that work. Each FT dojo4 employee is granted a $1,500/year stipend to keep their hardware and software up to date. It will be paid monthly.
