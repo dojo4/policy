@@ -1,11 +1,11 @@
 ###Table of Contents
-* Expectations for Employees
+* Expectations for Employees & Members
 * A Note on Part-Time Employees
 * Expectations for Contractors
 * Money
 * Salaries
 * Performance Reviews & Raises
-* Bonuses
+* Bonuses / Patronage Dividends
 * Zenefits & ZenPayroll
 * Invoicing Protocol for Contractors
 * Communications & Operations
@@ -18,7 +18,7 @@
 * Redmine
 * Flowdock
 * Github
-* Sekrets
+* 1Password
 * Regular Meetings
 * Daily standup
 * Friday standup
@@ -30,16 +30,17 @@
 * Communications & Ops for Contractors
 * Environmental Policy
 * Non-Discrimination Policy
+* Family-Friendly Workplace Manifesto
 * Equal Employment Opportunity
 * Discriminatory Harassment
 * Grievance Resolution
 * Disciplinary Procedures
 * Collective Bargaining Policy
 * Child Labor and Forced/Compulsory Labor Policy
+* Whistleblower Policy
 * Benefits
 * Health Insurance
 * Paid Leave
-* Flex Time
 * PTO
 * PTO Accrual
 * Scheduling Your PTO
@@ -50,15 +51,12 @@
 * Paternity Leave
 * Maternity Leave
 * Professional Financial Advising
-* Life Insurance Policies
-* Meditation
 * Professional Development
-* Technology Stipend
+* Technology Benefits
 * Food & Drink
 * Boxcar Coffee - Yay!
 * Friday lunch
 * Beer & Snacks
-* Health / Fitness
 * Agreements
 * Contract
 * Acknowledgement
@@ -67,12 +65,11 @@
 
 
 
-### Expectations for Employees
+### Expectations for Employees and Members
 In exchange for our benefits package, which includes a good salary, group health insurance, technology stipend, support for professional development, paid time off, gym membership, great colleagues, superior work, excellent culture, and all the coffee you can drink, dojo4 asks you to keep in mind a few expectations that will make this relationship very successful:
 
 The amount, value and quality of your work:
 
-* If you’re a full-time employee, work on dojo4 activities for 40 hours or more (average) per week.
 * Produce excellent work product befitting a professional in your field.
 * Work mostly (>60% of your time) on projects that we can bill for.
 * Your integration with dojo4:
@@ -94,13 +91,9 @@ Your professional initiative:
 * Contribute to internal projects.
 * Make things and put them in the public domain. Talk about them.
 
-The above expectations apply every day. But they will be especially valuable:
+### Member Code of Conduct
+As outlined in the Membership Agreement (https://github.com/dojo4/policy/edit/master/co-op/membership_agreement), dojo4 members recognizes the unique and important position s/he/it holds as a member of the cooperative and will: strive to maintain and support the mission of the cooperative and its surrounding community; carry and represent her/him/itself and the cooperative with fairness and respect, both within and external to the community; and adhere to the cooperative’s rules, guidelines, policies and code of conduct, as applicable.
 
-* When we have an opportunity to give employee bonuses
-* When we have an opportunity to change someone’s compensation
-* When we have an opportunity to promote someone
-* If we ever need to change the composition of our team
-* Quarterly, when we review the state of dojo4
 
 ### A Note on Part-Time Employees
 All of the above expectations apply to part-time dojo4 employees, save that the number of hours you are expected to spend on dojo4 work and the details of your compensation--including eligible benefits--will be stipulated in your unique contract.
@@ -112,10 +105,7 @@ The dojo4 family has always been comprised of independent self-starters who hold
 First and foremost, we extend to you an unlimited coffee tab at the inimitable Boxcar, because caffeinated contractors are happy contractors.  There are several other benefits described in this handbook dojo4 extends to our subcontractor family:
 
 * Professional financial advising
-* Gym membership (currently use of the dojo4 Boulder Rec Center card)
-* Meditation
 * Chair massage for those tense shoulders of yours
-* Yoga @ the dojo
 * Free lunch every Friday
 
 In exchange for these benefits and the timely payment of all your invoices, we ask that you:
@@ -146,17 +136,17 @@ dojo4 does not have a formalized process for reviews and raises. Generally, rais
 
 Performance reviews are, informally, a part of daily activity at dojo4 in the form of code reviews. However, more formal reviews (including peer-to-peer feedback) will be given at least annually and/or as needed. If you would like a formal review outside of a regularly scheduled review process, please ask and we’ll get it on the calendar.
 
-#### Bonuses                               	 
-dojo4 is a young business, and its profitability is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, we will award bonuses. See Expectations, above.
+#### Bonuses / Patronage Dividends                              	 
+The profitability of dojo4 is totally dependent on the quality and quantity of work we deliver every month. Annually, dojo4’s managers will review our financial performance; if possible, dojo4 will pay out Patronage Dividends to all members according to profits and individual time contributions. As per the dojo4 cooperative Bylaws (https://github.com/dojo4/policy/blob/master/co-op/bylaws),  Members shall be entitled to receive variable, non-cumulative annual dividends out of the net earnings of the Cooperative available therefor. The target dividend rate shall be 5%, which shall not be guaranteed, and shall be declared and distributed in the sole discretion of the Board.
 
-####Zenefits & Gusto (formerly ZenPayroll)
-dojo4 uses two robust third-party systems to manage general HR data and run payroll.  As part of your onboarding you will receive emails from both Zenefits and ZenPayroll asking you to create your own private login and provide information that will be used for your I9, W4 (or 1099) and direct deposit.  These systems will enable us to pay you via direct deposit, as well as give you access to your health insurance, PTO tracking and other HR topics.
+#### Justworks
+dojo4 uses a PEO (professional employer organization) called Justworks to manage general HR data and run payroll.  As part of your onboarding you will receive emails from Justworks asking you to create your own private login and provide information that will be used for your I9, W4 (or 1099) and direct deposit.  These systems will enable us to pay you via direct deposit, as well as give you access to your health insurance, PTO tracking and other HR topics.
 
-dojo4 contractors will be onboarded using our HR & financial systems: Contractually, Zenefits and ZenPayroll.  We use these systems for legal, tax and payment purposes.  Contractor payments are all processed through ZenPayroll, though you can choose to receive either a check or direct deposit.
+dojo4 contractors will be onboarded using our contracting and HR systems: concordnow.com and Justworks.  We use these systems for legal, tax and payment purposes.  Contractor payments are all processed through Justworks, though you can choose to receive either a check or direct deposit.
 
 
-####Invoicing Protocol for Contractors
-All contractor hours are attached to tickets in Redmine.  Tracking your time this way replaces the need for you to invoice dojo4.  We simply run reports for each pay period (the 15th and last day of the month) and pay you for the hours you have logged since our last pay period.  If you find yourself in urgent need of a payment in between our scheduled dates, just be in touch with Emily Utz, Operations Manager, directly.
+#### Invoicing Protocol for Contractors
+All contractor hours are attached to tickets in Redmine.  Tracking your time this way replaces the need for you to invoice dojo4.  We simply run reports for each pay period (the 15th and last day of the month) and pay you for the hours you have logged since our last pay period.  If you find yourself in urgent need of a payment in between our scheduled dates, just be in touch with Jetha Marek, Operations Manager, directly.
 
 The protocol for billables are:
 
@@ -168,13 +158,13 @@ The protocol for billables are:
 Please see “Time tracking” below for further instructions on how to track time in Redmine.
 
 
-###Communications & Operations  
+### Communications & Operations  
  
 In keeping with the expectations we have of one another at dojo4, below are outlined some of the things that allow us to keep things running smoothly, empower each other to get good work done, have maximal fun, and not have to micromanage one another. Please learn and use these systems. You can bring any questions you might have to Corey.    
 
-You will report directly to Corey Kohn, COO, but you can expect to field frequent requests from any of dojo4’s managers and partners, and from any of dojo4’s other employees. Each of us serves the others.       
+You will report directly to Corey Kohn, CEO, but you can expect to field frequent requests from any of dojo4’s managers and partners, and from any of dojo4’s other employees. Each of us serves the others.       
                     	 
-####dojo4 email address
+#### dojo4 email address
 You will be given a dojo4 email address. Please use this address for internal and client correspondence.  That said, we endeavor to keep our inboxes as empty as possible by using tools outlined below such as Redmine and Flowdock.
 
 #### dojo4 email lists
@@ -226,8 +216,8 @@ If for some reason you are a programmer without a Github account, please get one
 
 A note on our software development environment: Almost everyone at dojo4 touches code at some point, and people who touch code at dojo4 use a standardized coding environment. Individual environmental differences from the standard environment cannot be allowed to get in the way of work we do, so you should either be really good at managing your environment on your own time, or, better yet, use the same environment as the rest of us. We use OSX, generally; Github for source code management; RVM for Rails version management; Homebrew for OSX package management; and more. We don’t care what text editor you use. Ask us for help getting set up when you join the team.
 
-#### Sekrets
-All dojo4 credentials are kept in the dojo4LLC repository of https://sekrets.dojo4.com/. Please ask for the master password to get in. You should be able to find anything you need in sekrets. If you need to change or add any credentials for dojo4 or project operations, please be sure to record them in sekrets. Use judiciously and share only with other dojo4 employees. Any misuse of sekrets are grounds for immediate dismissal.
+#### 1Password
+All dojo4 credentials are kept 1Password. If you do not already have an account, the Operations Manager will help you get one set up. Please ask for the master password to get in. You should be able to find anything you need in 1Password. If you need to change or add any credentials for dojo4 or project operations, please be sure to record them in there. Use judiciously and share only with other dojo4 employees. Any misuse of the information in 1Password are grounds for immediate dismissal and eternal self-recrimination.
 
 
 #### Regular Meetings
@@ -255,16 +245,13 @@ The guidelines for the standup are:
 
 There’s a ‘talking piece’ in the middle that each person can pick up and hold if they are inspired to say something.  Who is going to bring the question the following week is decided at the end of each standup.  Announcements are made by anyone who has one.  We end with a clap and a bow.
 
-##### Orgdev
-Depending on the time of year, dojo4 gathers for an hour of organizational development on a regular basis. The content of these meetings changes, but the general intention is to participate in an engaged inquiry into what makes us more self-aware as a company and as individuals, so that we can create and iterate on systems that make dojo4 a compelling and effective environment to work.
-
 #### Performance check-ins
 Many of dojo4’s contributors like having a regularly scheduled opportunity to check in and hear how they’re doing, whether there is anything they can do better, and offer their own feedback for dojo4’s managers. We want that, too! Please schedule these at a sane interval with the manager you want to talk with.
 
 #### Being a project lead
 You may be asked if you’d like to take on the role of ‘project lead’ on a particular project. In most cases, this is completely optional. If you are interested in this type of position, please make yourself familiar with the responsibilities of the role. Please see https://github.com/dojo4/dojo4/blob/master/docs/manifestos/being-a-lead.md.
 
-####Communications & Ops for Contractors
+#### Communications & Ops for Contractors
 
 * Please always use a dojo4 email address and gravatar (if you don’t already have one, ask and we’ll get one to you) when interacting directly with clients.
 * Time tracking - use Redmine on a daily basis for all hours you want to be paid for (see above for details).
@@ -304,6 +291,25 @@ dojo4 is committed to being aware of the extent of our environmental impact, and
 #### Non-Discrimination Policy
 It is the policy and commitment of dojo4 that it does not discriminate on the basis of race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion.
 
+#### Family-Friendly Workplace Manifesto
+In that being parents or caretakers, having a family, is something that we should be able to celebrate and have pride in at work, we declare this **Family-Friendly Workplace Manifesto**. Having a family provides joy, and challenge. It should not be something that anyone feels the need to hide, justify, explain away or be embarrassed about. 
+
+Parents and other caretakers have the right conditions to be some of our most valuable co-workers and employees, because:
+
+* they have no choice but to be used to and conditioned for hard work and a relentless schedule
+* they have a lot at stake and are likely to be working not necessarily for themselves but for the greater welfare of their families
+* their home lives emphasize the need for clear decision-making, collaboration and the inescapable need to be able to play well with others
+
+Because of this, family-friendly workplaces have the potential to be more profitable, effective and efficient workplaces. A workplace that values families, is a happier, more realistic and more sustainable workplace. It is more likely to retain good employees. It is more likely to generate good will, a resource that can be drawn on when it is needed most. 
+
+To engender a family-friendly work place, we declare the following...
+
+* We recognize that life happens. Recurrent sickness, snow days, school holidays, child-care fails, school and doctors appointments, and emergencies of all kinds are part of the fabric of life and cannot be disappeared. The work will be made up another time.
+* Having children (and dogs!) in the workplace, from time to time, makes it a richer place. Small beings may be distracting, but it is good for our co-workers to know our families and our families to know our coworkers. It provides potential role models for our children. It provides potential humor and playfulness for our co-workers. And sometimes it is just best, in the big picture, to have our children with us rather than the  drain on logistical resources that it would take to figure out where else they can be.
+* We acknowledge that there is undue burden on single parents, financial disadvantaged parents, parents or caretakers of those with special needs, breast-feeding mothers and parents of sleep-depriving infants. Acknowledging this does not imply a lower standard of expectation but allows for the understanding of a different set of demands. 
+* A healthy family demands a different schedule than is available to most single people. Work and meetings scheduled at the last minute or during the time needed to get children off to daycare/school or during dinner or bedtime are not necessarily going to be doable or productive for parents. A workplace that supports flexible schedules and the ability to work remotely will optimize and capitalize on the good work that parents/caretakers have to offer. We now live in a world that offers many tools for productive, asynchronous team work - we will take advantage of them to support a healthier, more inclusive and more generative workplace. 
+* Providing [paid parental leave](http://dojo4.com/blog/have-babies-at-dojo4) is imperative to the structure of a family-friendly workplace. 
+
 #### Equal Employment Opportunity
 dojo4 is committed to a policy of equal employment opportunity and does not discriminate in the terms, conditions, or privileges of employment on account of race, age, color, sex, national origin, physical or mental disability, sexual orientation or religion or otherwise as may be prohibited by federal and state law.
 
@@ -342,19 +348,30 @@ dojo4 recognizes and supports the rights of workers, individual and unionized. T
 #### Commitment to Ban Child Labor and Forced/Compulsory Labor 
 dojo4 is committed  business practices and relationships that restrict and avoid employment to those age 15 or older, or the local minimum employment age, or the mandatory school age, whichever is higher. To this effect we commit to avoid using products, tools and resources, or fostering business relationships, that make use of child labor or any forced labor or exploitative working conditions. dojo4’s policy on Child Labor and Forced Labor is based on International Labor Organization (ILO) conventions and national laws, and recognizes regional and cultural differences. 
 
+#### Whistleblower Policy
+dojo4 requires directors, members, employees and contractors to observe high standards of business and personal ethics in the conduct of their duties and responsibilities. As representatives of the dojo4, we must practice honesty and integrity in fulfilling our responsibilities and comply with all applicable laws and regulations.
+
+##### Reporting Responsibility
+This Whistleblower Policy is intended to encourage and enable members and others to raise serious concerns internally so that dojo4 can address and correct inappropriate conduct and actions. It is the responsibility of all board members, directors, members, employees and contractors to report concerns about violations of dojo4’s code of ethics or suspected violations of law or regulations that govern dojo4’s operations.
+
+##### No Retaliation
+It is contrary to the values of dojo4 for anyone to retaliate against any board members, directors, members, employees or contractors who in good faith reports an ethics violation, or a suspected violation of law, such as a complaint of discrimination, or suspected fraud, or suspected violation of
+any regulation governing the operations of dojo4. A board member, director, member, employee or contractor who retaliates
+against someone who has reported a violation in good faith is subject to discipline up to and including termination of employment and membership.
+
+##### Reporting Procedure
+dojo4 has an open door policy and suggests that members and employees share their questions, concerns, suggestions or complaints with each other and the managing director(s). If you are not comfortable speaking with
+the managing director or you are not satisfied with the managing director’s response, you are encouraged to speak with assembled membership of the cooperative and/or the Board of Directors. The managing director(s)are required to report complaints or concerns about suspected ethical and legal violations in writing
+to the dojo4’s assembled membership, who have the responsibility to investigate all reported complaints. 
+
 
 ### Benefits
 
 #### Health Insurance
-dojo4 offers its full-time employees and their dependants access to the Anthem / Blue Cross PPO Pref DA+ GZPA Plan, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  dojo4 will pay 100% of monthly premiums for full-time employees and 25% of monthly premiums for their dependants.  If you choose to use another plan, dojo4 will pay, monthly, whatever we would have paid for your premium but cannot pay a stipend for the 25% of monthly premiums we would pay on our plan for dependants. To apply for this coverage, Corey will put you in contact with our broker. Dental is an option you may choose to add to your plan.
+dojo4 offers its members and employees and their dependants access to any of the plans offered through Justworks, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  dojo4 will pay 50% of monthly premiums for full-time members / employees their dependants.  To apply for this coverage, the operations manager will put you in contact with our account manager at Justworks. Vision and dental are options you may choose to add to your plan.
 
 #### Paid Leave
-dojo4’s employee benefits include three main types of paid leave: flexible time off (flex time), paid time off (PTO) and days when the shop is closed and we all get the day off (aka holidays).  We also offer some paid parental leave.
-
-##### Flex Time
-dojo4 values a flexible work environment where you can choose when and where you put in your time, for the most part. For errands and appointments and the occasional afternoon bike ride or long weekend, you have the option to simply make up the time in the same week (or very soon before or thereafter), rather than using PTO.  While flex time should not build up over weeks or months, we do understand that sometimes projects may require consecutive weeks of overtime, and trust that each team member will average their time in a professional manner that meets the expectations of your colleagues and clients.  Flex time hours accrue when your work averages more than 40 hours per week (for FT employees).
-
-Please let the team know when you are using flex time in your daily status update.  For example, “@flex 2 - golfing.”  It’s important to note that only you keep track your available flex time.  
+dojo4’s employee benefits include paid time off (PTO).  We also offer some paid parental leave.
 
 ##### PTO
 PTO is intended to be used for any personal need: for illness, for family, for vacation, etc.
@@ -370,7 +387,7 @@ PTO is a benefit of full time employment at dojo4, but its timing is subject to 
 Please report any PTO used in segments no smaller than a half-day in your status@dojo4.com updates.  You can always see how much PTO you have accrued by logging into Zenefits.  You will also be notified if you’ve accrued more than 10 days of PTO, and are thus in danger of not being able to accrue the next 5-day installment at the start of the next quarter.
 
 ##### Unpaid Time Off
-In some cases (lengthy illness or extended break from work), you may need to take more time off than your accrued PTO allows. In such cases, please discuss your situation with Corey.  Unpaid leave is a possibility, but it depends on many factors beyond the scope of this document. No unpaid leave will be granted until accrued PTO is exhausted.
+In some cases (lengthy illness or extended break from work), you may need to take more time off than your accrued PTO allows. In such cases, please discuss your situation with a managing director.  Unpaid leave is a possibility, but it depends on many factors beyond the scope of this document. No unpaid leave will be granted until accrued PTO is exhausted.
 
 ##### PTO at Termination
 You will be paid for all accrued PTO remaining when you leave the company.  You will not be paid out for accrued flex time or upcoming holidays.
@@ -397,7 +414,8 @@ what if I want to go to permanent part-time after my baby is born?
 if i go to unpaid time, is my job still guaranteed? for how long?
 
 Since dojo4 is a small company, with each employee filling a unique role, the answers to these questions will vary according to each circumstance. Please talk to us (the partners) about what you need and want in terms of having a new addition to your family. dojo4 will do its best in each situation to help support a healthy and sustainable family / work balance.
-Paternity Leave
+
+##### Paternity Leave
 
 To qualify for Paternity Leave you must be an employee, working at least 30 hours/week. You must be taking the time off to support the mother or carer for the baby and intend to be fully involved in the child's upbringing. Rights to Paternity Leave are extra to your normal PTO allowance.
 
@@ -411,7 +429,7 @@ You must also be either the:
 
 dojo4 will pay 100% of your regular salary for the first two weeks after the baby is born or adopted. Additional paid time off can be taken out of your normal PTO allowance, either consecutively or on a part-time basis. Unpaid leave may also be an option and should be discussed with the partners of dojo4.
 
-Maternity Leave
+##### Maternity Leave
 To qualify for Maternity Leave you must be an employee, working at least 30 hours/week. You must be taking the time off to care of yourself and your newborn or adopted child. Rights to Maternity Leave are extra to your normal PTO allowance.
 
 To qualify for Maternity Leave, you must be employed by dojo4 for at least 26 weeks by either the 15th week before the week that the baby is due or the end of the week you are notified you are matched with the child you are adopting
@@ -427,20 +445,11 @@ If you were already pregnant at the time you were first employed at dojo4, you m
 #### Professional Financial Advising
 To help you select the best life insurance policy (should you choose to adopt one) as well as to answer any other investment-related financial questions you may have, dojo4 will offer you up to two hours of individual consulting time with Highlander Wealth.
 
-
-#### Life Insurance Policies
-We believe that investing in a permanent life insurance policy gives you and your family an incredibly flexible and lucrative way to save for the future.  Remember, you can always take out the money you put in, so it’s much more accessible than a traditional IRA option, and the benefit will always be tax deductible for you or your family.  For this reason, dojo4 recommends a permanent policy, but will contribute to a term life insurance policy of that’s what you choose instead. dojo4 commits to matching 100% of your monthly premium up to $50/month (a total of $600 per year).  That means, you could chose a $50/mo plan and we will contribute $25/mo, or you could choose a $500/mo plan and we will contribute $50 and you would contribute $450.  We will re-evaluate this number each year to see if we can raise our match.  Do keep in mind when choosing your plan that should you no longer work at dojo4, you would be responsible for the entirety of your premium in order to keep your policy.
-
-#### Meditation
-In the past meditation was practiced at dojo4 weekly.  The schedule is currently on hiatus, but if you have an interest, please let us know and we'll reinstate the regular group meditation center. This is a silent, secular sitting meditation that is open to everyone, meant to support focus, mindfulness and mental stamina. Instruction can be available if desired.
-
 #### Professional Development
 Ongoing education, training and participation in learning communities is encouraged and supported at dojo4. If you are a full-time employee, dojo4 will help you attend job related conferences or trainings when financially possible. Wonder if a particular event is job-related? Just ask.
 
-#### Technology Stipend
-dojo4 wants you to love your technology and have computers and phones that work. Each FT dojo4 employee is granted a $1,500/year stipend to keep their hardware and software up to date. It will be paid monthly.
-
-We have some basic standards for technology that we’d like your phone and computer to meet. Your computer needs to be stable, secure, loaded with legal copies of the software you use to do your job, and powerful enough to run that software. Your phone needs to be similar to the phones we build software for -- Android or iOS -- and it should ring if we call you. The technology stipend is intended to help cover the costs of keeping your tools sharp.
+#### Technology Benefits
+dojo4 wants you to love your technology and have computers and phones that work. Each dojo4 member is granted access to lease a computer for their own use. These computers are traded out for newer models every two years. 
 
 #### Food & Drink
 Boxcar Coffee - Yay!
@@ -452,13 +461,18 @@ We almost always order take out from a local downtown restaurant for the team on
 #### Beer & Snacks
 We’re not making any promises, but we find that providing a few cold ones and something to munch on greatly increases attendance at important meetings like org dev.  Be there or be thirsty!
 
-#### Health / Fitness
-While pounding on a keyboard may keep your fingers nimble, please also make use of any of Boulder’s fine Rec Centers, if you so desire.  Just ask to have your name put on the group card!
+
 
 
 ### Agreements                               	 
 Contract
-You will be invited to join a contract through Contractual.ly. You will have to sign up for a free account in order to be able to read and electronically sign your subcontractor or employee agreement with dojo4. By joining your contract in Contractual.ly, there will also be the opportunity to negotiate, in writing, any particular adjustments to your agreement.
+You will be invited to join a contract through concordnow.com. You will have to sign up for a free account in order to be able to read and electronically sign your subcontractor or employee agreement with dojo4. By joining your contract in concordnow.com, there will also be the opportunity to negotiate, in writing, any particular adjustments to your agreement.
+
+#### Contracts
+All our cooperative legal contracts are open-sourced here: https://github.com/dojo4/policy/tree/master/co-op
+Our contractor agreement is open-sourced here: https://github.com/dojo4/policy/blob/master/contractor_agreement
+Our Master Services Agreement for client work is open-sourced here: https://github.com/dojo4/policy/blob/master/general_services_agreement
+Our Scope of Work / Engagement Agreement for client work is open-sourced here: https://github.com/dojo4/policy/blob/master/SOW_agreement
 
 ### Acknowledgement
 By signing your employment contract you acknowledge that you will adhere to both the content of the employment contract as well as the content of this Employee Handbook and any other orientation materials you received.
