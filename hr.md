@@ -2,11 +2,12 @@
 * Expectations for Employees & Members
 * A Note on Part-Time Employees
 * Expectations for Contractors
+* Membership Code of Conduct
 * Money
 * Salaries
 * Performance Reviews & Raises
 * Bonuses / Patronage Dividends
-* Zenefits & ZenPayroll
+* Justworks
 * Invoicing Protocol for Contractors
 * Communications & Operations
 * dojo4 email address
