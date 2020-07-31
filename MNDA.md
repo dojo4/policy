@@ -1,5 +1,4 @@
- 
-MUTUAL NONDISCLOSURE AGREEMENT
+# MUTUAL NONDISCLOSURE AGREEMENT
 
 Each undersigned party (the “Receiving Party”) understands that the other party (the “Disclosing Party”) has disclosed or may disclose information relating to the Disclosing Party’s business (including, without limitation, computer programs, technical drawings, algorithms, know-how, formulas, processes, ideas, inventions (whether patentable or not), schematics and other technical, business, financial, customer and product development plans, forecasts, strategies and information), which to the extent previously, presently or subsequently disclosed to the Receiving Party is hereinafter referred to as “Proprietary Information” of the Disclosing Party.  Notwithstanding the foregoing, nothing will be considered “Proprietary Information” of the Disclosing Party unless either (1) it is or was disclosed in tangible form and is conspicuously marked “Confidential”, “Proprietary” or the like, (2) it is or was disclosed in non-tangible form and identified as confidential at the time of disclosure, or (3) the nature of the information and the manner of disclosure are such that a reasonable person would understand it to be confidential.  
 
