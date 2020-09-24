@@ -393,7 +393,7 @@ In terms of privacy and representation, as outlined in our written client agreem
 ### Benefits
 
 #### Health Insurance
-Dojo4 offers its members and employees and their dependants access to any of the plans offered through Justworks, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  Dojo4 will pay 50% of monthly premiums for full-time members / employees their dependants.  To apply for this coverage, the operations manager will put you in contact with our account manager at Justworks. Vision and dental are options you may choose to add to your plan.
+Dojo4 offers its members and employees and their dependants access to any of the plans offered through Justworks, starting on the 1st of the month following hire.  A full description of the health plan can be downloaded.  Dojo4 will pay 50% of monthly premiums for full- or part-time  members / employees their dependants.  To apply for this coverage, the operations manager will put you in contact with our account manager at Justworks. Vision and dental are options you may choose to add to your plan.
 
 #### Paid Leave
 Dojo4’s employee benefits include paid time off (PTO) - see payment structure.  See We also offer some paid parental leave.
