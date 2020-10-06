@@ -294,6 +294,8 @@ Dojo4 is committed to being aware of the extent of our environmental impact, and
 * We are centrally located in downtown Boulder, enabling most of our employees to walk or bike to work year-round, which they do.  We are also able to avoid air travel most of the time.
 * We primarily drink beer, because we understand that water is a precious resource not to be wasted.
 
+This is only an excerpt of our full environmental policy. To experience its full glory, go to https://github.com/dojo4/policy/blob/master/environmental_policy.md or https://docs.google.com/document/d/1J6NCPSMNqXU8tAcYvVW1nDsdZIdeJNL6T86xwE5nbuQ/edit?usp=sharing. 
+
 
 ### People Policies
 
