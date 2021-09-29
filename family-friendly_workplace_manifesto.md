@@ -1,5 +1,11 @@
 
-In that being parents or caretakers, having a family, is something that we should be able to celebrate and have pride in at work, we declare this **Family-Friendly Workplace Manifesto**. Having a family provides joy, and challenge. It should not be something that anyone feels the need to hide, justify, explain away or be embarrassed about. 
+Whereas being parents or caretakers, having a family, is something that we should be able to celebrate and have pride in at work, we declare this Family-Friendly Workplace Manifesto. Having a family provides joy and challenge. It should not be something that anyone feels the need to hide, justify, explain away or be embarrassed about.
+
+Parents and other caretakers have the right conditions to be some of our most valuable co-workers and employees, because:
+
+* they have no choice but to be used to and conditioned for hard work and a relentless schedule;
+
+* they have a lot at stake and are likely to be working not necessarily for themselves but for the greater welfare of their families;
 
 Parents and other caretakers have the right conditions to be some of our most valuable co-workers and employees, because:
 
