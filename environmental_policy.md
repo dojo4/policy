@@ -35,7 +35,7 @@ So what can businesses like ours -- or any entity, be it a non-profit, a not-jus
 
 **_A Note on Home Offices_**
 
-_While Dojo4 is open on a quarantine-friendly schedule to its members this year, we recognize that more and more people are using their home offices. Dojo4 encourages its members and community to take these principles home with them; all of these tools and practices can be applied to a home/family just as readily as an office. _
+_While Dojo4 conitnues to maintain a physical office that is open to its members and the community, we recognize that more and more people are using their home offices. Dojo4 encourages its members and community to take these principles home with them; all of these tools and practices can be applied to a home/family just as readily as an office. _
 
 _On the energy side of things, Boulder is lucky to have a former client, [Fuel Switch](https://gofuelswitch.com/), which exists to help people fully transition their homes off of fossil fuels. Our City/County run a similar program, called [Energy Smart](https://energysmartyes.com/). The water, waste, and procurement resources listed in this policy can be applied at home._
 
